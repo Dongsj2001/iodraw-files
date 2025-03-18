@@ -25,6 +25,11 @@
         <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-6" value="&lt;h2&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Georgia&quot;&gt;能力势&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="960" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q2ZW4_W_XXrmAfXPJbA8-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-7" value="&lt;h2&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Georgia&quot;&gt;高斯势&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="950" y="734" width="120" height="60" as="geometry" />
         </mxCell>
@@ -40,11 +45,8 @@
         <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-12" value="&lt;h2&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;通用损失&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1750" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120.00000000000001;exitDy=50;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" edge="1" parent="1" source="Q2ZW4_W_XXrmAfXPJbA8-2" target="Q2ZW4_W_XXrmAfXPJbA8-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="990" width="50" height="100" as="geometry" />
+          <mxGeometry x="640" y="560" width="50" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
