@@ -49,18 +49,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-10" value="&lt;h2&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;潜在损失&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1372" y="650.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1309" y="650.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q2ZW4_W_XXrmAfXPJbA8-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1433.7142857142858" y="760" as="targetPoint" />
+            <mxPoint x="1370.7142857142858" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-11" value="&lt;h2&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;质心损失&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1372" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="1309" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-12" value="&lt;h2&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;通用损失&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1538" y="718" width="120" height="60" as="geometry" />
+          <mxGeometry x="1475" y="718" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=120.00000000000001;entryDy=50;entryPerimeter=0;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=0;exitY=0;exitDx=120.00000000000001;exitDy=50;exitPerimeter=0;" edge="1" parent="1" target="Q2ZW4_W_XXrmAfXPJbA8-2">
           <mxGeometry relative="1" as="geometry">
@@ -103,7 +103,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-38" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1422" y="738" width="20" height="20" as="geometry" />
+          <mxGeometry x="1359" y="738" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
