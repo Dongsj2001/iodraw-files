@@ -98,8 +98,8 @@
         </mxCell>
         <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startSize=6;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1356" y="679.7900000000002" as="targetPoint" />
-            <mxPoint x="1306" y="679.79" as="sourcePoint" />
+            <mxPoint x="1350" y="679.7900000000002" as="targetPoint" />
+            <mxPoint x="1300" y="679.79" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-38" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
