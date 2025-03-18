@@ -44,7 +44,13 @@
           <mxGeometry x="600" y="890" width="50" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Q2ZW4_W_XXrmAfXPJbA8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120.00000000000001;exitDy=50;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="Q2ZW4_W_XXrmAfXPJbA8-2" target="Q2ZW4_W_XXrmAfXPJbA8-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="680" />
+              <mxPoint x="665" y="680" />
+              <mxPoint x="665" y="550" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
