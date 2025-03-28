@@ -261,6 +261,9 @@
         <mxCell id="LWqX2-NHw_IYUPM9f_c8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="LWqX2-NHw_IYUPM9f_c8-4" target="LWqX2-NHw_IYUPM9f_c8-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LWqX2-NHw_IYUPM9f_c8-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="LWqX2-NHw_IYUPM9f_c8-4" target="LWqX2-NHw_IYUPM9f_c8-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LWqX2-NHw_IYUPM9f_c8-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;X&lt;/b&gt;&lt;sup style=&quot;&quot;&gt;0,1&lt;/sup&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFD117;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="610" y="570" width="60" height="60" as="geometry" />
         </mxCell>
@@ -343,11 +346,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LWqX2-NHw_IYUPM9f_c8-67" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="585" width="30" height="30" as="geometry" />
+          <mxGeometry x="1052" y="585" width="30" height="30" as="geometry" />
         </mxCell>
         <UserObject label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;img src=&quot;file:///C:\Users\dddd\AppData\Local\Temp\ksohtml32272\wps1.png&quot; height=&quot;17&quot; width=&quot;16&quot;&gt;&lt;/span&gt;&lt;/p&gt;" link="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;img width=&quot;16&quot; height=&quot;17&quot; src=&quot;file:///C:\Users\dddd\AppData\Local\Temp\ksohtml32272\wps1.png&quot;&gt;&lt;/span&gt;&lt;/p&gt;" id="LWqX2-NHw_IYUPM9f_c8-68">
           <mxCell style="text;whiteSpace=wrap;html=1;fontStyle=2;rotation=5;" vertex="1" parent="1">
-            <mxGeometry x="1069" y="572" width="20" height="20" as="geometry" />
+            <mxGeometry x="1061" y="572" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
