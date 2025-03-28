@@ -19,7 +19,7 @@
             <mxPoint x="1319" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sVN2Q1t6wYAqEHpe9uQq-20" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="sVN2Q1t6wYAqEHpe9uQq-20" value="" style="group;aspect=fixed;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="280" y="240" width="153" height="234" as="geometry" />
         </mxCell>
         <mxCell id="sVN2Q1t6wYAqEHpe9uQq-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="sVN2Q1t6wYAqEHpe9uQq-20">
@@ -79,7 +79,7 @@
         <mxCell id="sVN2Q1t6wYAqEHpe9uQq-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="sVN2Q1t6wYAqEHpe9uQq-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="148" as="sourcePoint" />
-            <mxPoint x="87" y="120" as="targetPoint" />
+            <mxPoint x="70" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
