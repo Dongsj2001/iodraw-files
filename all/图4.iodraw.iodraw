@@ -56,7 +56,7 @@
         <mxCell id="LCLvsr35-gQtvP74wy9M-17" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
           <mxGeometry x="7" y="-240" width="118" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCLvsr35-gQtvP74wy9M-18" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
+        <mxCell id="LCLvsr35-gQtvP74wy9M-18" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;strokeColor=#00ed18;" vertex="1" parent="1">
           <mxGeometry x="7" y="-244" width="118" height="60" as="geometry" />
         </mxCell>
       </root>
