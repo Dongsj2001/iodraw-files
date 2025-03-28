@@ -182,6 +182,9 @@
         <mxCell id="LCLvsr35-gQtvP74wy9M-94" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;（c）Semantic Segmentation Branch&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="207" y="210" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Cy4_NoyWmWomSLhsungM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="-370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
