@@ -169,8 +169,8 @@
         </mxCell>
         <mxCell id="LCLvsr35-gQtvP74wy9M-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490.43" y="31" as="sourcePoint" />
-            <mxPoint x="490.43" y="50" as="targetPoint" />
+            <mxPoint x="489" y="39" as="sourcePoint" />
+            <mxPoint x="489.43" y="54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LCLvsr35-gQtvP74wy9M-79" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
