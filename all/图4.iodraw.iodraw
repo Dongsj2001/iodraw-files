@@ -35,9 +35,9 @@
             <mxPoint x="204.56207578879744" y="115.53221619454175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LCLvsr35-gQtvP74wy9M-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="LCLvsr35-gQtvP74wy9M-8">
+        <mxCell id="LCLvsr35-gQtvP74wy9M-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LCLvsr35-gQtvP74wy9M-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="65.48054576374959" y="6.831134799247075" as="sourcePoint" />
+            <mxPoint x="71.62" y="5.02000000000001" as="sourcePoint" />
             <mxPoint x="270.042621552547" y="5.477697135032493" as="targetPoint" />
           </mxGeometry>
         </mxCell>
