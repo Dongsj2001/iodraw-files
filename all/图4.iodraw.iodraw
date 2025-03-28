@@ -182,7 +182,7 @@
         <mxCell id="LCLvsr35-gQtvP74wy9M-93" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;(b)&amp;nbsp;&lt;span style=&quot;color: rgb(42, 43, 46); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;实例分割分支&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="210" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LCLvsr35-gQtvP74wy9M-94" value="(c)&amp;nbsp;&lt;span style=&quot;color: rgb(113, 119, 125); font-family: Arial, Helvetica, sans-serif; font-size: 32px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;语义分割分支&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LCLvsr35-gQtvP74wy9M-94" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;(c)&amp;nbsp;&lt;span style=&quot;color: rgb(113, 119, 125); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;语义分割分支&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-450" y="210" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
