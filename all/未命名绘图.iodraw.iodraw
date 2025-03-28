@@ -276,6 +276,9 @@
         <mxCell id="LWqX2-NHw_IYUPM9f_c8-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;X&lt;/b&gt;&lt;sup style=&quot;&quot;&gt;0,3&lt;/sup&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFD117;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="850" y="570" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LWqX2-NHw_IYUPM9f_c8-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LWqX2-NHw_IYUPM9f_c8-7" target="LWqX2-NHw_IYUPM9f_c8-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LWqX2-NHw_IYUPM9f_c8-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;X&lt;/b&gt;&lt;sup style=&quot;&quot;&gt;0,4&lt;/sup&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFD117;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="970" y="570" width="60" height="60" as="geometry" />
         </mxCell>
