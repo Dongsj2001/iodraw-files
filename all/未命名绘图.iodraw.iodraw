@@ -342,9 +342,9 @@
         <mxCell id="LWqX2-NHw_IYUPM9f_c8-67" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1060" y="585" width="30" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;img width=&quot;16&quot; height=&quot;17&quot; src=&quot;file:///C:\Users\dddd\AppData\Local\Temp\ksohtml32272\wps1.png&quot;&gt;&lt;/span&gt;&lt;/p&gt;" link="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;img width=&quot;16&quot; height=&quot;17&quot; src=&quot;file:///C:\Users\dddd\AppData\Local\Temp\ksohtml32272\wps1.png&quot;&gt;&lt;/span&gt;&lt;/p&gt;" id="LWqX2-NHw_IYUPM9f_c8-68">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1068" y="573" width="20" height="20" as="geometry" />
+        <UserObject label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;img src=&quot;file:///C:\Users\dddd\AppData\Local\Temp\ksohtml32272\wps1.png&quot; height=&quot;17&quot; width=&quot;16&quot;&gt;&lt;/span&gt;&lt;/p&gt;" link="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;img width=&quot;16&quot; height=&quot;17&quot; src=&quot;file:///C:\Users\dddd\AppData\Local\Temp\ksohtml32272\wps1.png&quot;&gt;&lt;/span&gt;&lt;/p&gt;" id="LWqX2-NHw_IYUPM9f_c8-68">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontStyle=2;rotation=5;" vertex="1" parent="1">
+            <mxGeometry x="1067" y="572" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
