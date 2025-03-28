@@ -104,7 +104,7 @@
         <mxCell id="LCLvsr35-gQtvP74wy9M-37" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
           <mxGeometry x="93" y="173" width="34" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="LCLvsr35-gQtvP74wy9M-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LCLvsr35-gQtvP74wy9M-36">
+        <mxCell id="LCLvsr35-gQtvP74wy9M-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=0.5;" edge="1" parent="1" target="LCLvsr35-gQtvP74wy9M-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="40" as="sourcePoint" />
             <mxPoint x="30" y="130" as="targetPoint" />
