@@ -173,14 +173,11 @@
         <mxCell id="LCLvsr35-gQtvP74wy9M-79" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="467" y="56" width="13" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="LCLvsr35-gQtvP74wy9M-81" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;(b) Instance Segmentation Branch&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-82" y="205" width="290" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="LCLvsr35-gQtvP74wy9M-82" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;(c) Semantic Segmentation Branch&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="207" y="205" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LCLvsr35-gQtvP74wy9M-90" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;（a）&lt;span style=&quot;color: rgb(42, 43, 46); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;特征金字塔网络&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-74.49" width="192" height="60" as="geometry" />
+          <mxGeometry x="275" y="-74.49" width="192" height="34.49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
