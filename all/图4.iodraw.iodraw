@@ -179,6 +179,9 @@
         <mxCell id="LCLvsr35-gQtvP74wy9M-90" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;（a）&lt;span style=&quot;color: rgb(42, 43, 46); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;特征金字塔网络&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="275" y="-74.49" width="192" height="34.49" as="geometry" />
         </mxCell>
+        <mxCell id="LCLvsr35-gQtvP74wy9M-93" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="210" width="350" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
