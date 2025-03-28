@@ -89,8 +89,8 @@
         <mxCell id="LCLvsr35-gQtvP74wy9M-33" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=#8591ff;" vertex="1" parent="1">
           <mxGeometry x="70" y="130" width="40" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="LCLvsr35-gQtvP74wy9M-34" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="180" width="50" height="20" as="geometry" />
+        <mxCell id="LCLvsr35-gQtvP74wy9M-34" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=14;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="180" width="44" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
