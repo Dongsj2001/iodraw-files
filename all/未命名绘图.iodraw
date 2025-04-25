@@ -454,6 +454,9 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-222" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="405" y="-528" width="16" height="16" as="geometry" />
         </mxCell>
+        <mxCell id="i4viAx-vkja5t0oGGsMm-223" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="-784" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
