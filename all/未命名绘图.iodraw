@@ -7,7 +7,7 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4viAx-vkja5t0oGGsMm-2" target="i4viAx-vkja5t0oGGsMm-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;医学问题&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i4viAx-vkja5t0oGGsMm-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Medical Question&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="56" y="244" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4viAx-vkja5t0oGGsMm-3" target="i4viAx-vkja5t0oGGsMm-38">
@@ -143,8 +143,8 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-43">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-39" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Entity recognition and linking&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-43">
-          <mxGeometry x="-45" y="16" width="210" height="28" as="geometry" />
+        <mxCell id="i4viAx-vkja5t0oGGsMm-39" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Entity recognition&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&amp;nbsp;and linking&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-43">
+          <mxGeometry x="-10" y="9" width="140" height="42" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="i4viAx-vkja5t0oGGsMm-54">
           <mxGeometry relative="1" as="geometry">
