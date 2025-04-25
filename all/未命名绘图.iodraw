@@ -340,8 +340,8 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-152" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;h&lt;sub&gt;v&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-154">
           <mxGeometry x="46.72676193025026" y="62.080000000000034" width="42" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-158" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="132" y="97" width="56" height="28" as="geometry" />
+        <mxCell id="i4viAx-vkja5t0oGGsMm-158" value="[q&lt;sub&gt;1&lt;/sub&gt;,q&lt;sub&gt;2&lt;/sub&gt;,...,q&lt;sub&gt;n&lt;/sub&gt;]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="111" y="97" width="98" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
