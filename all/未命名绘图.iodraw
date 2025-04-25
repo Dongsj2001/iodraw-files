@@ -361,8 +361,8 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-162" value="图文联合推理&lt;div&gt;及路径控制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-161">
           <mxGeometry y="19" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-166" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="378" y="-630" width="120" height="60" as="geometry" />
+        <mxCell id="i4viAx-vkja5t0oGGsMm-167" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="406" y="-630" width="88" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
