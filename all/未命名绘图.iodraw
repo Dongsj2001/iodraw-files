@@ -319,11 +319,14 @@
             <mxPoint x="219" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-148" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;startSize=2;sourcePerimeterSpacing=0;curved=1;endSize=2;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4viAx-vkja5t0oGGsMm-126">
+        <mxCell id="i4viAx-vkja5t0oGGsMm-148" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;startSize=2;sourcePerimeterSpacing=0;curved=1;endSize=2;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4viAx-vkja5t0oGGsMm-126" target="i4viAx-vkja5t0oGGsMm-127">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="257" y="580" as="sourcePoint" />
             <mxPoint x="275" y="601" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i4viAx-vkja5t0oGGsMm-149" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="358" y="486" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
