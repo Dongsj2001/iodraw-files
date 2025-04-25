@@ -232,11 +232,8 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-82" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="445" y="226" width="120" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-82">
+        <mxCell id="i4viAx-vkja5t0oGGsMm-80" value="图文联合推理&lt;div&gt;及路径控制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-82">
           <mxGeometry y="19" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-81" value="&lt;p style=&quot;font-size: 14px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;图文联合推理&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;与路径控制&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="518" y="140" width="112" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
