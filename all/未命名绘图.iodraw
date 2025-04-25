@@ -233,13 +233,10 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4viAx-vkja5t0oGGsMm-80" target="i4viAx-vkja5t0oGGsMm-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-89" value="[q&lt;sub&gt;1&lt;/sub&gt;,q&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;,...,q&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;n&lt;/sub&gt;&lt;/span&gt;]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="249" y="272" width="98" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-90" value="Path/Neighborhood&lt;div&gt;exploration&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="462" y="428" width="126" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="i4viAx-vkja5t0oGGsMm-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="179" y="484.77" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
