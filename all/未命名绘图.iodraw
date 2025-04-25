@@ -235,7 +235,7 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-80" value="图文联合推理&lt;div&gt;及路径控制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-82">
           <mxGeometry y="19" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i4viAx-vkja5t0oGGsMm-87" value="最终输出阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="314" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
