@@ -115,6 +115,9 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-29" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Knowledge Graph&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="53" y="428" width="126" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="i4viAx-vkja5t0oGGsMm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4viAx-vkja5t0oGGsMm-30" target="i4viAx-vkja5t0oGGsMm-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="238" y="252" width="120" height="60" as="geometry" />
         </mxCell>
