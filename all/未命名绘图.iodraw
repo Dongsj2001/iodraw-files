@@ -346,7 +346,7 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-159" value="语言表示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="244" width="84" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-160" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i4viAx-vkja5t0oGGsMm-3" target="i4viAx-vkja5t0oGGsMm-94">
+        <mxCell id="i4viAx-vkja5t0oGGsMm-160" value="" style="endArrow=none;html=1;rounded=0;dashed=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="i4viAx-vkja5t0oGGsMm-3" target="i4viAx-vkja5t0oGGsMm-94">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="235" as="sourcePoint" />
             <mxPoint x="470" y="185" as="targetPoint" />
