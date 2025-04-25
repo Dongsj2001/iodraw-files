@@ -121,8 +121,8 @@
             <mxPoint x="252" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-33" value="BERT&amp;nbsp; Encoder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="314" y="153" width="112" height="28" as="geometry" />
+        <mxCell id="i4viAx-vkja5t0oGGsMm-33" value="&lt;b&gt;BERT&amp;nbsp; Encoder&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="256" y="268" width="112" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
