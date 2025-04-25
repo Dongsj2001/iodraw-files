@@ -128,7 +128,7 @@
           <mxGeometry x="414" y="252" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;实体识别&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;与链接模块&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="261" width="98" height="42" as="geometry" />
+          <mxGeometry x="392" y="346" width="98" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
