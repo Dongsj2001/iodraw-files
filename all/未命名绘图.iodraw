@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="p0rEU3sTBavdbVhJXggQ">
-    <mxGraphModel dx="1250" dy="727" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1041" dy="606" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,7 +167,7 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-89" value="[q&lt;sub&gt;1&lt;/sub&gt;,q&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;,...,q&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;n&lt;/sub&gt;&lt;/span&gt;]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="249" y="272" width="98" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-92" value="" style="group;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" connectable="0" parent="1">
+        <mxCell id="i4viAx-vkja5t0oGGsMm-92" value="" style="group;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;dashed=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="434" y="327" width="140" height="154" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-91" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-92">
