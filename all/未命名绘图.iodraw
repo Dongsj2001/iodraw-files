@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-56" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="420" y="479" width="112" height="105.52999999999997" as="geometry" />
+          <mxGeometry x="476" y="462" width="112" height="105.52999999999997" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-57" value="" style="group" vertex="1" connectable="0" parent="i4viAx-vkja5t0oGGsMm-56">
           <mxGeometry y="3" width="112" height="102.52999999999997" as="geometry" />
@@ -218,8 +218,8 @@
             <mxPoint x="173.97752808988767" y="-16.54545454545454" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-79" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Subgraph&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="574" y="427.53" width="84" height="28" as="geometry" />
+        <mxCell id="i4viAx-vkja5t0oGGsMm-79" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Subgraph&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-57">
+          <mxGeometry x="10.720000000000027" y="74.52999999999997" width="84" height="28" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-82" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="567" y="226" width="120" height="98" as="geometry" />
