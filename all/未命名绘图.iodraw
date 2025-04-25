@@ -165,7 +165,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-95" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="414" y="331" width="126" height="146" as="geometry" />
+          <mxGeometry x="420" y="331" width="126" height="146" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-56" value="" style="group" vertex="1" connectable="0" parent="i4viAx-vkja5t0oGGsMm-95">
           <mxGeometry x="14" y="34" width="112" height="105.52999999999997" as="geometry" />
@@ -239,8 +239,16 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-90" value="Path/Neighborhood&lt;div&gt;exploration&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-95">
           <mxGeometry width="126" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="i4viAx-vkja5t0oGGsMm-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="i4viAx-vkja5t0oGGsMm-95" source="i4viAx-vkja5t0oGGsMm-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174" y="73" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#99CCFF;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-95">
           <mxGeometry width="126" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="i4viAx-vkja5t0oGGsMm-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
