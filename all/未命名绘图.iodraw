@@ -146,16 +146,14 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-39" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Entity recognition&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&amp;nbsp;and linking&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-43">
           <mxGeometry x="-10" y="9" width="140" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="i4viAx-vkja5t0oGGsMm-54">
+        <mxCell id="i4viAx-vkja5t0oGGsMm-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="503" y="308" as="targetPoint" />
+            <mxPoint x="624" y="308" as="targetPoint" />
+            <mxPoint x="624" y="346" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="346" width="120" height="116" as="geometry" />
-        </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-56" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="449" y="350" width="112" height="105.52999999999997" as="geometry" />
+          <mxGeometry x="420" y="479" width="112" height="105.52999999999997" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-57" value="" style="group" vertex="1" connectable="0" parent="i4viAx-vkja5t0oGGsMm-56">
           <mxGeometry y="3" width="112" height="102.52999999999997" as="geometry" />
@@ -221,16 +219,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-79" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Subgraph&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="453" y="427.53" width="84" height="28" as="geometry" />
+          <mxGeometry x="574" y="427.53" width="84" height="28" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-82" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="446" y="226" width="120" height="98" as="geometry" />
+          <mxGeometry x="567" y="226" width="120" height="98" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-80" value="图文联合推理&lt;div&gt;及路径控制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i4viAx-vkja5t0oGGsMm-82">
           <mxGeometry y="19" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-87" value="最终输出阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="631" y="314" width="120" height="60" as="geometry" />
+          <mxGeometry x="752" y="314" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4viAx-vkja5t0oGGsMm-80" target="i4viAx-vkja5t0oGGsMm-87">
           <mxGeometry relative="1" as="geometry" />
