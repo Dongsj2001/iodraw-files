@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i4viAx-vkja5t0oGGsMm-192" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="i4viAx-vkja5t0oGGsMm-192" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="588" y="-742" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-95" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -423,6 +423,12 @@
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-191" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="667" y="-699" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="i4viAx-vkja5t0oGGsMm-204" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="-611" as="sourcePoint" />
+            <mxPoint x="440" y="-661" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
