@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;医学问题&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="56" y="236" width="120" height="60" as="geometry" />
+          <mxGeometry x="56" y="244" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4viAx-vkja5t0oGGsMm-3" target="i4viAx-vkja5t0oGGsMm-38">
           <mxGeometry relative="1" as="geometry" />
@@ -122,10 +122,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="238" y="236" width="120" height="60" as="geometry" />
+          <mxGeometry x="238" y="244" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-33" value="&lt;b&gt;BERT&amp;nbsp; Encoder&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="242" y="252" width="112" height="28" as="geometry" />
+          <mxGeometry x="242" y="260" width="112" height="28" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-43" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="238" y="374" width="120" height="60" as="geometry" />
@@ -142,7 +142,7 @@
           <mxGeometry x="11" y="9" width="98" height="42" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-50" value="我运动后胸口疼，是不是心脏有问题" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="28" y="210" width="238" height="42" as="geometry" />
+          <mxGeometry x="28" y="218" width="238" height="42" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-51" value="胸口疼、心脏问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="308" y="346" width="126" height="28" as="geometry" />
