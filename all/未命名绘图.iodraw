@@ -385,7 +385,7 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-182" value="&lt;b&gt;LLM-token&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="1">
           <mxGeometry x="352.5" y="-655.5" width="84" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-183" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#B3B3B3;container=0;" vertex="1" parent="1">
+        <mxCell id="i4viAx-vkja5t0oGGsMm-183" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#666666;container=0;" vertex="1" parent="1">
           <mxGeometry x="322" y="-742" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-169" value="" style="whiteSpace=wrap;html=1;aspect=fixed;container=0;fillColor=#999900;" vertex="1" parent="1">
@@ -421,7 +421,7 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-190" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC66;direction=south;" vertex="1" parent="1">
           <mxGeometry x="634" y="-699" width="28" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-191" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="i4viAx-vkja5t0oGGsMm-191" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="667" y="-699" width="28" height="28" as="geometry" />
         </mxCell>
       </root>
