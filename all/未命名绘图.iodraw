@@ -418,12 +418,6 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-191" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="667" y="-699" width="28" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-204" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="i4viAx-vkja5t0oGGsMm-207">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="708" y="-482" as="sourcePoint" />
-            <mxPoint x="758" y="-532" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-206" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="335" y="-768" width="101.5" height="28.5" as="geometry" />
         </mxCell>
@@ -435,6 +429,9 @@
         </mxCell>
         <mxCell id="i4viAx-vkja5t0oGGsMm-207" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="281" y="-490" width="120" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="i4viAx-vkja5t0oGGsMm-208" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="468" y="-560" width="120" height="4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
