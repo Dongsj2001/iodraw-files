@@ -139,8 +139,8 @@
         <mxCell id="i4viAx-vkja5t0oGGsMm-50" value="我运动后胸口疼，是不是心脏有问题" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="28" y="226" width="238" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="i4viAx-vkja5t0oGGsMm-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="314" y="349" width="56" height="28" as="geometry" />
+        <mxCell id="i4viAx-vkja5t0oGGsMm-51" value="胸口疼、心脏问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="279" y="349" width="126" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
