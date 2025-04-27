@@ -22,11 +22,6 @@
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-253" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="519" y="857" width="268" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wdXY6FMlOBUzY85EqXgz-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7Lnv2TXwnFfhlmk9h05b-254">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="866" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-254" value="&quot;I have chest pain after exercise. Is there something wrong with my heart?&quot;" style="text;whiteSpace=wrap;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="94" y="832.64" width="216" height="67.36" as="geometry" />
         </mxCell>
