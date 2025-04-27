@@ -24,7 +24,7 @@
             <mxPoint x="236" y="274" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VoRPj2TMi2OVJ2MQjW4l-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Medical Question&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#747e5e;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="VoRPj2TMi2OVJ2MQjW4l-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;Medical Question&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#747e5e;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="56" y="244" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VoRPj2TMi2OVJ2MQjW4l-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VoRPj2TMi2OVJ2MQjW4l-26" target="VoRPj2TMi2OVJ2MQjW4l-34" edge="1">
@@ -39,8 +39,8 @@
         <mxCell id="VoRPj2TMi2OVJ2MQjW4l-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#747e5e;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="238" y="252" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="VoRPj2TMi2OVJ2MQjW4l-31" value="&lt;b&gt;BERT&amp;nbsp; Encoder&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="242" y="256" width="112" height="28" as="geometry" />
+        <mxCell id="VoRPj2TMi2OVJ2MQjW4l-31" value="&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;BERT&amp;nbsp; Encoder&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="238" y="255" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VoRPj2TMi2OVJ2MQjW4l-32" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="238" y="374" width="165" height="60" as="geometry" />
