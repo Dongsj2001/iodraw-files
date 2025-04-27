@@ -941,11 +941,14 @@
         <mxCell id="VoRPj2TMi2OVJ2MQjW4l-35" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Georgia&quot; color=&quot;#ffffff&quot;&gt;Entity recognition&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;nM3StTuOjVC5InDQ5tuo&quot; color=&quot;#ffffff&quot;&gt;&amp;nbsp;and linking&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="231" y="379" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="A08-VzPTRyUW7sZ1c062-28" value="Input [X]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A08-VzPTRyUW7sZ1c062-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="A08-VzPTRyUW7sZ1c062-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="48" width="50" height="30" as="geometry" />
+        <mxCell id="A08-VzPTRyUW7sZ1c062-29" value="Input [X]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A08-VzPTRyUW7sZ1c062-30" value="&quot;I have chest pain after exercise. Is there something wrong with my heart?&quot;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="80" width="430" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
