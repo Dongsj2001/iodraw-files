@@ -244,12 +244,12 @@
         <mxCell id="VoRPj2TMi2OVJ2MQjW4l-64" value="Language Representation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="250" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VoRPj2TMi2OVJ2MQjW4l-65" value="" style="endArrow=none;html=1;rounded=0;dashed=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" edge="1">
+        <mxCell id="VoRPj2TMi2OVJ2MQjW4l-65" value="" style="endArrow=none;html=1;rounded=0;dashed=1;curved=1;entryX=0;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="540.04" as="sourcePoint" />
-            <mxPoint x="430" y="540.002" as="targetPoint" />
+            <mxPoint x="201" y="540" as="sourcePoint" />
+            <mxPoint x="401" y="540.002" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="568.04" />
+              <mxPoint x="261" y="568.04" />
             </Array>
           </mxGeometry>
         </mxCell>
