@@ -915,12 +915,6 @@
         <mxCell id="VoRPj2TMi2OVJ2MQjW4l-232" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="565" y="821.64" width="14" height="237.36" as="geometry" />
         </mxCell>
-        <mxCell id="-QaJMg9gqPuo_kirnkIg-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="480" as="sourcePoint" />
-            <mxPoint x="850" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
