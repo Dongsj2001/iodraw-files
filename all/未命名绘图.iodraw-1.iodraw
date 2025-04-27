@@ -947,8 +947,8 @@
         <mxCell id="A08-VzPTRyUW7sZ1c062-29" value="Input [X]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="76" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A08-VzPTRyUW7sZ1c062-30" value="&quot;I have chest pain after exercise. Is there something wrong with my heart?&quot;" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="38" y="100" width="182" height="77" as="geometry" />
+        <mxCell id="A08-VzPTRyUW7sZ1c062-30" value="&quot;I have chest pain after exercise. Is there something wrong with my heart?&quot;" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="38" y="100" width="192" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
