@@ -547,14 +547,14 @@
             <mxPoint x="193.30836454431963" y="-16.54545454545454" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Lnv2TXwnFfhlmk9h05b-367" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Subgraph&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7Lnv2TXwnFfhlmk9h05b-353" vertex="1">
+        <mxCell id="7Lnv2TXwnFfhlmk9h05b-367" value="&lt;font face=&quot;Georgia&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Subgraph&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7Lnv2TXwnFfhlmk9h05b-353" vertex="1">
           <mxGeometry x="13.911111111111142" y="73.52999999999997" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7Lnv2TXwnFfhlmk9h05b-368" value="Path/Neighborhood&lt;div&gt;exploration&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="884" y="868" width="130" height="40" as="geometry" />
+        <mxCell id="7Lnv2TXwnFfhlmk9h05b-368" value="&lt;b&gt;Path/Neighborhood&lt;/b&gt;&lt;div&gt;&lt;b&gt;exploration&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Georgia;" parent="1" vertex="1">
+          <mxGeometry x="874" y="868" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-369" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="990" y="865.5600000000001" width="140" height="146" as="geometry" />
+          <mxGeometry x="878" y="867.0000000000001" width="140" height="146" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
