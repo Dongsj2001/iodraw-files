@@ -415,8 +415,8 @@
             <mxPoint x="871" y="937" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Lnv2TXwnFfhlmk9h05b-350" value="&lt;b&gt;Merge&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="806" y="910" width="37" height="31.28" as="geometry" />
+        <mxCell id="7Lnv2TXwnFfhlmk9h05b-350" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Merge&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="907" width="37" height="31.28" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-351" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="878" y="867" width="140" height="146" as="geometry" />
