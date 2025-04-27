@@ -480,15 +480,15 @@
           <mxGeometry width="140" height="146" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-370" value="" style="group;align=center;fontStyle=1" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="94" y="947.16" width="154" height="182" as="geometry" />
+          <mxGeometry x="93" y="947.16" width="154" height="182" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-371" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;fontStyle=1" parent="7Lnv2TXwnFfhlmk9h05b-370" vertex="1">
           <mxGeometry x="-4" y="-26" width="158" height="152" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-372" value="exercise" style="text;whiteSpace=wrap;align=center;fontStyle=1" parent="7Lnv2TXwnFfhlmk9h05b-370" vertex="1">
-          <mxGeometry y="18.71" width="126" height="23.29" as="geometry" />
+          <mxGeometry x="14" y="18.71" width="56" height="23.29" as="geometry" />
         </mxCell>
-        <mxCell id="7Lnv2TXwnFfhlmk9h05b-373" value="hyperlipidemia" style="text;whiteSpace=wrap;align=center;fontStyle=1" parent="7Lnv2TXwnFfhlmk9h05b-370" vertex="1">
+        <mxCell id="7Lnv2TXwnFfhlmk9h05b-373" value="wrong" style="text;whiteSpace=wrap;align=center;fontStyle=1" parent="7Lnv2TXwnFfhlmk9h05b-370" vertex="1">
           <mxGeometry x="-2" y="39" width="126" height="39" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-374" value="atorvastatin" style="text;whiteSpace=wrap;align=center;fontStyle=1" parent="7Lnv2TXwnFfhlmk9h05b-370" vertex="1">
