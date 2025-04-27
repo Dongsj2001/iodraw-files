@@ -942,13 +942,13 @@
           <mxGeometry x="231" y="379" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A08-VzPTRyUW7sZ1c062-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="110" width="200" height="80" as="geometry" />
+          <mxGeometry x="30" y="70" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="A08-VzPTRyUW7sZ1c062-29" value="Input [X]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="107" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A08-VzPTRyUW7sZ1c062-30" value="&quot;I have chest pain after exercise. Is there something wrong with my heart?&quot;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="249" y="130" width="211" height="40" as="geometry" />
+          <mxGeometry x="38" y="137" width="211" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
