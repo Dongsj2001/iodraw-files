@@ -492,7 +492,7 @@
           <mxGeometry x="4" y="40" width="64" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-374" value="heart" style="text;whiteSpace=wrap;align=center;fontStyle=1" parent="7Lnv2TXwnFfhlmk9h05b-370" vertex="1">
-          <mxGeometry x="-4" y="60" width="112" height="39" as="geometry" />
+          <mxGeometry x="9" y="60" width="48" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-376" value="chest pain" style="text;whiteSpace=wrap;align=left;fontStyle=1" parent="7Lnv2TXwnFfhlmk9h05b-370" vertex="1">
           <mxGeometry x="16" width="100" height="28" as="geometry" />
@@ -508,9 +508,6 @@
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-380" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="7Lnv2TXwnFfhlmk9h05b-370" vertex="1">
           <mxGeometry y="63.71" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7Lnv2TXwnFfhlmk9h05b-381" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="7Lnv2TXwnFfhlmk9h05b-370" vertex="1">
-          <mxGeometry y="84.00000000000011" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-382" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="430" y="835" width="120" height="50" as="geometry" />
