@@ -21,10 +21,10 @@
         <mxCell id="wdXY6FMlOBUzY85EqXgz-114" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="255" y="978.52" width="80" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="7Lnv2TXwnFfhlmk9h05b-252" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="7Lnv2TXwnFfhlmk9h05b-252" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="519" y="939.28" width="268" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="7Lnv2TXwnFfhlmk9h05b-253" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="7Lnv2TXwnFfhlmk9h05b-253" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="519" y="857" width="268" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-254" value="&quot;I have chest pain after exercise. Is there something wrong with my heart?&quot;" style="text;whiteSpace=wrap;fontStyle=1;fontSize=13;" parent="1" vertex="1">
