@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="VTx2d4taZGWDthmzEQk_">
     <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -553,8 +553,8 @@
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-380" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#ff0080;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="94" y="1010.87" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zvJDTK6Y5yFVGRZsVxGw-1" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontStyle=1;strokeColor=#ff0080;fontFamily=Georgia;" vertex="1" parent="1">
-          <mxGeometry x="104" y="980.87" width="20" height="20" as="geometry" />
+        <mxCell id="zvJDTK6Y5yFVGRZsVxGw-1" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontStyle=1;strokeColor=#ff0080;fontFamily=Georgia;" parent="1" vertex="1">
+          <mxGeometry x="94" y="952.28" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
