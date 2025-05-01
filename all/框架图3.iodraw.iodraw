@@ -177,7 +177,7 @@
           <mxGeometry x="609" y="901.2827272727272" width="10.715285138859445" height="10.715285138859445" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-292" value="Bridge node" style="text;whiteSpace=wrap;fontSize=14;fontStyle=1;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="603" y="833" width="112" height="31" as="geometry" />
+          <mxGeometry x="603" y="833" width="112" height="24" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-293" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="680.28" y="877.2827272727272" width="77.43528513885951" height="34.715285138859485" as="geometry" />
@@ -407,7 +407,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-348" value="Neighbor node" style="text;whiteSpace=wrap;fontStyle=1;fontSize=14;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="594" y="1024" width="112" height="33" as="geometry" />
+          <mxGeometry x="594" y="1022" width="112" height="33" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-349" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
