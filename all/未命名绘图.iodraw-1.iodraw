@@ -553,14 +553,14 @@
             <mxPoint x="445" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4808Af3es9c4ZvDtNJM-140" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=5.959183673469388;endSize=2.617142857142857;width=4.571428571428571;fillColor=#818891;strokeColor=none;" edge="1" parent="1">
+        <mxCell id="P4808Af3es9c4ZvDtNJM-140" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=5.959183673469388;endSize=2.617142857142857;width=4.571428571428571;fillColor=#818891;strokeColor=none;startSize=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="723" as="sourcePoint" />
             <mxPoint x="694.95" y="723" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P4808Af3es9c4ZvDtNJM-141" value="&lt;b&gt;复制与裁剪&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="733" y="708" width="80" height="30" as="geometry" />
+          <mxGeometry x="694" y="708" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
