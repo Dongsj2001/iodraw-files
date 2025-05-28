@@ -577,8 +577,8 @@
             <mxPoint x="689.0000000000001" y="758" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4808Af3es9c4ZvDtNJM-145" value="&lt;b&gt;2×2 最大池化&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="733" width="100" height="30" as="geometry" />
+        <mxCell id="P4808Af3es9c4ZvDtNJM-145" value="&lt;b&gt;2×2 上池化&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="694" y="754" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
