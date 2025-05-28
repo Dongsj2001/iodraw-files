@@ -551,7 +551,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P4808Af3es9c4ZvDtNJM-131" value="3×3 卷积，ReLU激活函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="588" width="160" height="30" as="geometry" />
+          <mxGeometry x="698" y="680" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
