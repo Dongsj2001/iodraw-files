@@ -824,8 +824,8 @@
         <mxCell id="nsgMU9FecVpFFPAKbaAE-4" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-size: 16px; text-align: start; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;感兴趣区域对齐&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="568" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nsgMU9FecVpFFPAKbaAE-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="440" width="60" height="30" as="geometry" />
+        <mxCell id="nsgMU9FecVpFFPAKbaAE-6" value="感兴趣区域对齐" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="422.71" y="510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
