@@ -171,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LCLvsr35-gQtvP74wy9M-79" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="469" y="56" width="13" height="12" as="geometry" />
+          <mxGeometry x="469" y="54" width="13" height="12" as="geometry" />
         </mxCell>
         <mxCell id="LCLvsr35-gQtvP74wy9M-90" value="&lt;div style=&quot;text-align: start; font-size: 18px;&quot;&gt;&lt;font style=&quot;background-color: initial; font-size: 18px;&quot;&gt;（a）&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(42, 43, 46); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Arial, &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, 宋体, &amp;quot;Malgun Gothic&amp;quot;, sans-serif;&quot;&gt;特征金字塔网络&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="248.69" y="-74.49" width="235" height="34.49" as="geometry" />
@@ -196,8 +196,8 @@
         </mxCell>
         <mxCell id="LsRk-bJwOY8WqZ94mn2n-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="485.5" y="49" as="sourcePoint" />
-            <mxPoint x="485.5" y="64" as="targetPoint" />
+            <mxPoint x="475.16" y="68" as="sourcePoint" />
+            <mxPoint x="475.16" y="83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
