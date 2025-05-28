@@ -199,7 +199,7 @@
             <mxPoint x="516" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4808Af3es9c4ZvDtNJM-52" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1">
+        <mxCell id="P4808Af3es9c4ZvDtNJM-52" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;fillColor=#f9f7ed;strokeColor=#ffffff;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="512" y="600" as="sourcePoint" />
             <mxPoint x="512" y="520" as="targetPoint" />
