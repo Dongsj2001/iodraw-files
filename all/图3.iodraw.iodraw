@@ -508,7 +508,7 @@
             <mxPoint x="174" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nsgMU9FecVpFFPAKbaAE-6" value="感兴趣区域对齐" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sVN2Q1t6wYAqEHpe9uQq-119">
+        <mxCell id="nsgMU9FecVpFFPAKbaAE-6" value="&lt;b&gt;感兴趣区域对齐&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sVN2Q1t6wYAqEHpe9uQq-119">
           <mxGeometry x="60" y="125" width="117.29" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sVN2Q1t6wYAqEHpe9uQq-121" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
