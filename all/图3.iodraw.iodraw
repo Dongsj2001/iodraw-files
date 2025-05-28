@@ -815,7 +815,7 @@
         <mxCell id="nsgMU9FecVpFFPAKbaAE-7" value="&lt;b&gt;类别框&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="548" y="294.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nsgMU9FecVpFFPAKbaAE-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="nsgMU9FecVpFFPAKbaAE-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.017;exitY=0.764;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nsgMU9FecVpFFPAKbaAE-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="588" y="395.5" as="sourcePoint" />
             <mxPoint x="638" y="395.5" as="targetPoint" />
