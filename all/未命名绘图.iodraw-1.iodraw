@@ -54,8 +54,8 @@
         </mxCell>
         <mxCell id="P4808Af3es9c4ZvDtNJM-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=5.959183673469388;endSize=2.617142857142857;width=4.571428571428571;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="202" y="409.71" as="sourcePoint" />
-            <mxPoint x="218" y="409.71" as="targetPoint" />
+            <mxPoint x="211.5" y="399.71" as="sourcePoint" />
+            <mxPoint x="227.5" y="399.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
