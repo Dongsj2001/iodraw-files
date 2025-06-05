@@ -596,8 +596,8 @@
         <mxCell id="sVN2Q1t6wYAqEHpe9uQq-212" value="&lt;span&gt;&lt;font face=&quot;Helvetica&quot;&gt;卷积&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="459" y="372" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nsgMU9FecVpFFPAKbaAE-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;输入图像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="125" y="380" width="80" height="30" as="geometry" />
+        <mxCell id="nsgMU9FecVpFFPAKbaAE-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输入图像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nsgMU9FecVpFFPAKbaAE-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输出图像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="635" y="380" width="90" height="30" as="geometry" />
