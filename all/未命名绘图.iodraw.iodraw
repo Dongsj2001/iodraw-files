@@ -127,7 +127,7 @@
         <mxCell id="KrLABfEHQg82GTWOrrgV-60" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;跨模态联合推理与路径控制&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="540" y="640" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-61" value="&lt;span style=&quot;font-size: 14px;&quot; class=&quot;10&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;答案生成与解释模块&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-61" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;医学影像驱动的候选疾病推断&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="260" y="770.5" width="130" height="35" as="geometry" />
         </mxCell>
       </root>
