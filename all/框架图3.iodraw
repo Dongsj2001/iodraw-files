@@ -428,8 +428,8 @@
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-383" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="7Lnv2TXwnFfhlmk9h05b-382" vertex="1">
           <mxGeometry y="4" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="7Lnv2TXwnFfhlmk9h05b-384" value="&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;BERT&amp;nbsp; Encoder&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7Lnv2TXwnFfhlmk9h05b-382" vertex="1">
-          <mxGeometry x="-1" y="-1" width="120" height="30" as="geometry" />
+        <mxCell id="7Lnv2TXwnFfhlmk9h05b-384" value="&lt;b&gt;&lt;font face=&quot;Georgia&quot;&gt;BERT&amp;nbsp; 编码器&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7Lnv2TXwnFfhlmk9h05b-382" vertex="1">
+          <mxGeometry x="9" y="-1" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-385" value="&lt;b&gt;[q&lt;sub&gt;1&lt;/sub&gt;,q&lt;sub&gt;2&lt;/sub&gt;,...,q&lt;sub&gt;n&lt;/sub&gt;]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="367" y="852" width="98" height="28" as="geometry" />
