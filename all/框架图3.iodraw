@@ -453,7 +453,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-352" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="893.5555555555555" y="901" width="124.44444444444446" height="106.52999999999997" as="geometry" />
+          <mxGeometry x="859.9955555555555" y="901.28" width="124.44444444444446" height="106.52999999999997" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-353" value="" style="group" parent="7Lnv2TXwnFfhlmk9h05b-352" vertex="1" connectable="0">
           <mxGeometry x="36.44" y="-1" width="124.44444444444446" height="103.52999999999997" as="geometry" />
@@ -534,10 +534,10 @@
           <mxGeometry x="96" y="966.87" width="56" height="23.29" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-373" value="心脏" style="text;whiteSpace=wrap;align=center;fontStyle=1;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="98" y="987.16" width="64" height="20" as="geometry" />
+          <mxGeometry x="92" y="987.16" width="64" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-374" value="问题" style="text;whiteSpace=wrap;align=center;fontStyle=1;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="103" y="1007.16" width="48" height="30" as="geometry" />
+          <mxGeometry x="100" y="1007.16" width="48" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-376" value="胸痛" style="text;whiteSpace=wrap;align=left;fontStyle=1;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="110" y="947.16" width="100" height="28" as="geometry" />
