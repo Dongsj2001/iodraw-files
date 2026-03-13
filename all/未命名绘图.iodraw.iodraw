@@ -92,7 +92,7 @@
           <mxGeometry x="250" y="590" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-46" value="&lt;span style=&quot;&quot; class=&quot;10&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;知识子图构建与图表示编码&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="380" y="620" width="130" height="40" as="geometry" />
+          <mxGeometry x="500" y="615" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-47" value="&lt;span style=&quot;&quot; class=&quot;10&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;跨模态联合推理与路径控制&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="590" y="595" width="120" height="30" as="geometry" />
@@ -128,7 +128,10 @@
           <mxGeometry x="580" y="890" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-58" value="&lt;span style=&quot;font-size: 14px;&quot; class=&quot;10&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;答案生成与解释模块&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="250" y="625" width="130" height="35" as="geometry" />
+          <mxGeometry x="260" y="622.5" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="KrLABfEHQg82GTWOrrgV-59" value="&lt;span style=&quot;font-size: 14px;&quot; class=&quot;10&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;答案生成与解释模块&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="622.5" width="130" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
