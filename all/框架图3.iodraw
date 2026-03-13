@@ -531,7 +531,7 @@
           <mxGeometry x="90" y="921.16" width="158" height="126" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-372" value="运动" style="text;whiteSpace=wrap;align=center;fontStyle=1;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="108" y="965.87" width="56" height="23.29" as="geometry" />
+          <mxGeometry x="96" y="966.87" width="56" height="23.29" as="geometry" />
         </mxCell>
         <mxCell id="7Lnv2TXwnFfhlmk9h05b-373" value="心脏" style="text;whiteSpace=wrap;align=center;fontStyle=1;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="98" y="987.16" width="64" height="20" as="geometry" />
