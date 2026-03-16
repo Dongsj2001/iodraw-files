@@ -301,7 +301,7 @@
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-66" value="医生代理生成问诊问题&lt;br&gt;q&lt;sub&gt;t&lt;/sub&gt; = LLM(Z&lt;sub&gt;t&lt;/sub&gt;, s&lt;sub&gt;t&lt;/sub&gt;)&lt;br&gt;示例：最近是否出现胸部疼痛或压迫感？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1430" y="1720" width="400" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-67" value="患者侧：知识约束症状表达准备&#xa;根据候选疾病集合 D_cand 与医学知识图谱 G=(E,R,T)&#xa;检索疾病相关症状集合 S_(d_i)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-67" value="患者侧：知识约束症状表达准备&lt;br&gt;根据候选疾病集合 D&lt;sub&gt;cand&lt;/sub&gt;&amp;nbsp;与医学知识图谱 G=(E,R,T)&lt;br&gt;检索疾病相关症状集合 S&lt;sub&gt;di&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1430" y="1850" width="400" height="95" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-68" value="估计目标症状出现概率&#xa;结合当前问诊目标症状 s_t 与疾病概率分布 P(d_i|I,H_t)&#xa;得到 P(s_t)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15" vertex="1" parent="1">
@@ -326,7 +326,7 @@
           <mxGeometry x="1360" y="1590" width="540" height="250" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-75" value="患者症状表达模块" style="swimlane;html=1;startSize=28;horizontal=0;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1360" y="1831" width="540" height="500" as="geometry" />
+          <mxGeometry x="1360" y="1846" width="540" height="500" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-76" style="endArrow=block;html=1;strokeWidth=2" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-61" target="fVpT6Kow-ts5sUFJ23zf-62">
           <mxGeometry relative="1" as="geometry" />
