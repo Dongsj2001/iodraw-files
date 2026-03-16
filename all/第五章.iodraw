@@ -183,10 +183,10 @@
             <mxPoint x="-578.3200000000002" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3J0fBZtLQsxqK7z6dELr-59" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="3J0fBZtLQsxqK7z6dELr-59" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10;endSize=5.13;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-455.08" y="380" as="sourcePoint" />
-            <mxPoint x="-455.08" y="340" as="targetPoint" />
+            <mxPoint x="-455.15999999999997" y="370" as="sourcePoint" />
+            <mxPoint x="-455.15999999999997" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-62" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -262,7 +262,7 @@
           <mxGeometry x="-556.11" y="234.58000000000004" width="44.55" height="52.9" as="geometry" />
         </mxCell>
         <mxCell id="qahbM7_OdsDR1PZ5M3pY-12" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;医患多轮问诊&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="185" width="200.32" height="40" as="geometry" />
+          <mxGeometry x="-490" y="192.58" width="200.32" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
