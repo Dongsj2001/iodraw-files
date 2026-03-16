@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="83bPFK1Uej9rrXV-eIOJ">
-    <mxGraphModel dx="7075" dy="3636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4732" dy="2273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,7 +244,7 @@
             <mxPoint x="-201.62" y="391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-2" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-2" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-590" y="389.5" width="235.32" height="115" as="geometry" />
         </mxCell>
         <mxCell id="qahbM7_OdsDR1PZ5M3pY-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="fVpT6Kow-ts5sUFJ23zf-2" vertex="1">
@@ -280,81 +280,81 @@
             <mxPoint x="506" y="42.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-62" value="输入初始信息&lt;br&gt;医学影像特征 v&lt;br&gt;候选疾病集合 D&lt;sub&gt;cand&lt;/sub&gt;&lt;br&gt;初始症状集合 S&lt;sub&gt;ask&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-62" value="输入初始信息&lt;br&gt;医学影像特征 v&lt;br&gt;候选疾病集合 D&lt;sub&gt;cand&lt;/sub&gt;&lt;br&gt;初始症状集合 S&lt;sub&gt;ask&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15" parent="1" vertex="1">
           <mxGeometry x="1470" y="1250" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-63" value="构建当前轮之前的对话历史&lt;br&gt;H&lt;sub&gt;t&lt;/sub&gt; = {(q&lt;sub&gt;1&lt;/sub&gt;,a&lt;sub&gt;1&lt;/sub&gt;),(q&lt;sub&gt;2&lt;/sub&gt;,a&lt;sub&gt;2&lt;/sub&gt;),...,(q&lt;sub&gt;(t-1)&lt;/sub&gt;,a&lt;sub&gt;(t-1)&lt;/sub&gt;)}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-63" value="构建当前轮之前的对话历史&lt;br&gt;H&lt;sub&gt;t&lt;/sub&gt; = {(q&lt;sub&gt;1&lt;/sub&gt;,a&lt;sub&gt;1&lt;/sub&gt;),(q&lt;sub&gt;2&lt;/sub&gt;,a&lt;sub&gt;2&lt;/sub&gt;),...,(q&lt;sub&gt;(t-1)&lt;/sub&gt;,a&lt;sub&gt;(t-1)&lt;/sub&gt;)}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15" parent="1" vertex="1">
           <mxGeometry x="1430" y="1380" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-64" value="多模态诊断状态融合&lt;br&gt;综合影像信息、历史对话与疾病概率分布&lt;br&gt;Z&lt;sub&gt;t&lt;/sub&gt; = f(v, H&lt;sub&gt;t&lt;/sub&gt;, P(D))" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-64" value="多模态诊断状态融合&lt;br&gt;综合影像信息、历史对话与疾病概率分布&lt;br&gt;Z&lt;sub&gt;t&lt;/sub&gt; = f(v, H&lt;sub&gt;t&lt;/sub&gt;, P(D))" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15" parent="1" vertex="1">
           <mxGeometry x="1430" y="1490" width="400" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-65" value="医生侧：症状规划模块&lt;br&gt;依据诊断状态选择当前需要确认的目标症状 s&lt;sub&gt;t&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-65" value="医生侧：症状规划模块&lt;br&gt;依据诊断状态选择当前需要确认的目标症状 s&lt;sub&gt;t&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15" parent="1" vertex="1">
           <mxGeometry x="1430" y="1610" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-66" value="医生代理生成问诊问题&lt;br&gt;q&lt;sub&gt;t&lt;/sub&gt; = LLM(Z&lt;sub&gt;t&lt;/sub&gt;, s&lt;sub&gt;t&lt;/sub&gt;)&lt;br&gt;示例：最近是否出现胸部疼痛或压迫感？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-66" value="医生代理生成问诊问题&lt;br&gt;q&lt;sub&gt;t&lt;/sub&gt; = LLM(Z&lt;sub&gt;t&lt;/sub&gt;, s&lt;sub&gt;t&lt;/sub&gt;)&lt;br&gt;示例：最近是否出现胸部疼痛或压迫感？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15" parent="1" vertex="1">
           <mxGeometry x="1430" y="1720" width="400" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-67" value="患者侧：知识约束症状表达准备&lt;br&gt;根据候选疾病集合 D&lt;sub&gt;cand&lt;/sub&gt;&amp;nbsp;与医学知识图谱 G=(E,R,T)&lt;br&gt;检索疾病相关症状集合 S&lt;span style=&quot;font-size: 12.5px;&quot;&gt;d&lt;/span&gt;&lt;sub&gt;i&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-67" value="患者侧：知识约束症状表达准备&lt;br&gt;根据候选疾病集合 D&lt;sub&gt;cand&lt;/sub&gt;&amp;nbsp;与医学知识图谱 G=(E,R,T)&lt;br&gt;检索疾病相关症状集合 S&lt;span style=&quot;font-size: 12.5px;&quot;&gt;d&lt;/span&gt;&lt;sub&gt;i&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15" parent="1" vertex="1">
           <mxGeometry x="1430" y="1876" width="400" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-68" value="估计目标症状出现概率&lt;br&gt;结合当前问诊目标症状s&lt;sub&gt;t&lt;/sub&gt;与疾病概率分布 P(&lt;span style=&quot;font-size: 12.5px;&quot;&gt;d&lt;sub&gt;i&lt;/sub&gt;&lt;/span&gt;|I,H&lt;sub&gt;t&lt;/sub&gt;)&lt;br&gt;得到 P(s&lt;sub&gt;t&lt;/sub&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-68" value="估计目标症状出现概率&lt;br&gt;结合当前问诊目标症状s&lt;sub&gt;t&lt;/sub&gt;与疾病概率分布 P(&lt;span style=&quot;font-size: 12.5px;&quot;&gt;d&lt;sub&gt;i&lt;/sub&gt;&lt;/span&gt;|I,H&lt;sub&gt;t&lt;/sub&gt;)&lt;br&gt;得到 P(s&lt;sub&gt;t&lt;/sub&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15" parent="1" vertex="1">
           <mxGeometry x="1430" y="2001" width="400" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-69" value="对症状状态进行采样&lt;br&gt;得到症状状态变量 y&lt;sub&gt;t&lt;/sub&gt;&lt;br&gt;1：症状存在&lt;br&gt;0：症状不存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-69" value="对症状状态进行采样&lt;br&gt;得到症状状态变量 y&lt;sub&gt;t&lt;/sub&gt;&lt;br&gt;1：症状存在&lt;br&gt;0：症状不存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15" parent="1" vertex="1">
           <mxGeometry x="1430" y="2116" width="400" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-70" value="患者代理生成自然语言回答&lt;br&gt;a&lt;sub&gt;t&lt;/sub&gt; = LLM(q&lt;sub&gt;t&lt;/sub&gt;, y&lt;sub&gt;t&lt;/sub&gt;, H&lt;sub&gt;t&lt;/sub&gt;)&lt;br&gt;在自然表达下保持与医学知识约束一致" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-70" value="患者代理生成自然语言回答&lt;br&gt;a&lt;sub&gt;t&lt;/sub&gt; = LLM(q&lt;sub&gt;t&lt;/sub&gt;, y&lt;sub&gt;t&lt;/sub&gt;, H&lt;sub&gt;t&lt;/sub&gt;)&lt;br&gt;在自然表达下保持与医学知识约束一致" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15" parent="1" vertex="1">
           <mxGeometry x="1430" y="2241" width="400" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-71" value="更新对话历史与诊断状态&lt;br&gt;H&lt;sub&gt;t+1&lt;/sub&gt;=H&lt;sub&gt;t&lt;/sub&gt;∪(q&lt;sub&gt;t&lt;/sub&gt;,a&lt;sub&gt;t&lt;/sub&gt;&amp;nbsp;)&lt;br&gt;系统根据新增回答继续修正诊断判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-71" value="更新对话历史与诊断状态&lt;br&gt;H&lt;sub&gt;t+1&lt;/sub&gt;=H&lt;sub&gt;t&lt;/sub&gt;∪(q&lt;sub&gt;t&lt;/sub&gt;,a&lt;sub&gt;t&lt;/sub&gt;&amp;nbsp;)&lt;br&gt;系统根据新增回答继续修正诊断判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15" parent="1" vertex="1">
           <mxGeometry x="1430" y="2398" width="400" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-72" value="是否继续下一轮问诊？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-72" value="是否继续下一轮问诊？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16" parent="1" vertex="1">
           <mxGeometry x="1520" y="2571" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-73" value="结束&#xa;输出更完整的症状信息与诊断依据" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-73" value="结束&#xa;输出更完整的症状信息与诊断依据" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16" parent="1" vertex="1">
           <mxGeometry x="1960" y="2551" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-74" value="医生提问模块" style="swimlane;html=1;startSize=28;horizontal=0;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=17;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-74" value="医生提问模块" style="swimlane;html=1;startSize=28;horizontal=0;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=17;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1360" y="1590" width="540" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-75" value="患者症状表达模块" style="swimlane;html=1;startSize=28;horizontal=0;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=17;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-75" value="患者症状表达模块" style="swimlane;html=1;startSize=28;horizontal=0;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=17;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1360" y="1858" width="540" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-77" style="endArrow=block;html=1;strokeWidth=2" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-62" target="fVpT6Kow-ts5sUFJ23zf-63">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-77" style="endArrow=block;html=1;strokeWidth=2" parent="1" source="fVpT6Kow-ts5sUFJ23zf-62" target="fVpT6Kow-ts5sUFJ23zf-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-78" style="endArrow=block;html=1;strokeWidth=2" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-63" target="fVpT6Kow-ts5sUFJ23zf-64">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-78" style="endArrow=block;html=1;strokeWidth=2" parent="1" source="fVpT6Kow-ts5sUFJ23zf-63" target="fVpT6Kow-ts5sUFJ23zf-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-79" style="endArrow=block;html=1;strokeWidth=2" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-64" target="fVpT6Kow-ts5sUFJ23zf-65">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-79" style="endArrow=block;html=1;strokeWidth=2" parent="1" source="fVpT6Kow-ts5sUFJ23zf-64" target="fVpT6Kow-ts5sUFJ23zf-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-80" style="endArrow=block;html=1;strokeWidth=2" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-65" target="fVpT6Kow-ts5sUFJ23zf-66">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-80" style="endArrow=block;html=1;strokeWidth=2" parent="1" source="fVpT6Kow-ts5sUFJ23zf-65" target="fVpT6Kow-ts5sUFJ23zf-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-81" style="endArrow=block;html=1;strokeWidth=2" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-66" target="fVpT6Kow-ts5sUFJ23zf-67">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-81" style="endArrow=block;html=1;strokeWidth=2" parent="1" source="fVpT6Kow-ts5sUFJ23zf-66" target="fVpT6Kow-ts5sUFJ23zf-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-82" style="endArrow=block;html=1;strokeWidth=2" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-67" target="fVpT6Kow-ts5sUFJ23zf-68">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-82" style="endArrow=block;html=1;strokeWidth=2" parent="1" source="fVpT6Kow-ts5sUFJ23zf-67" target="fVpT6Kow-ts5sUFJ23zf-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-83" style="endArrow=block;html=1;strokeWidth=2" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-68" target="fVpT6Kow-ts5sUFJ23zf-69">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-83" style="endArrow=block;html=1;strokeWidth=2" parent="1" source="fVpT6Kow-ts5sUFJ23zf-68" target="fVpT6Kow-ts5sUFJ23zf-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-84" style="endArrow=block;html=1;strokeWidth=2" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-69" target="fVpT6Kow-ts5sUFJ23zf-70">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-84" style="endArrow=block;html=1;strokeWidth=2" parent="1" source="fVpT6Kow-ts5sUFJ23zf-69" target="fVpT6Kow-ts5sUFJ23zf-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-85" style="endArrow=block;html=1;strokeWidth=2" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-70" target="fVpT6Kow-ts5sUFJ23zf-71">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-85" style="endArrow=block;html=1;strokeWidth=2" parent="1" source="fVpT6Kow-ts5sUFJ23zf-70" target="fVpT6Kow-ts5sUFJ23zf-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-86" style="endArrow=block;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-71" target="fVpT6Kow-ts5sUFJ23zf-72">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-86" style="endArrow=block;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fVpT6Kow-ts5sUFJ23zf-71" target="fVpT6Kow-ts5sUFJ23zf-72" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1630" y="2490" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-87" value="是" style="endArrow=block;html=1;strokeWidth=2;rounded=1;exitX=0;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-72" target="fVpT6Kow-ts5sUFJ23zf-64">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-87" value="是" style="endArrow=block;html=1;strokeWidth=2;rounded=1;exitX=0;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;" parent="1" source="fVpT6Kow-ts5sUFJ23zf-72" target="fVpT6Kow-ts5sUFJ23zf-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1430" y="2620" />
@@ -364,15 +364,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-88" value="否" style="endArrow=block;html=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-72" target="fVpT6Kow-ts5sUFJ23zf-73">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-88" value="否" style="endArrow=block;html=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fVpT6Kow-ts5sUFJ23zf-72" target="fVpT6Kow-ts5sUFJ23zf-73" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1950" y="2502" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-89" value="输出：医生问诊问题 q&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-89" value="输出：医生问诊问题 q&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="1850" y="1724" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-90" value="输出：患者回答&amp;nbsp;&lt;span style=&quot;font-size: 15px; font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;a&lt;/span&gt;&lt;sub style=&quot;font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;t&lt;/sub&gt;&lt;span style=&quot;font-size: 15px; font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-90" value="输出：患者回答&amp;nbsp;&lt;span style=&quot;font-size: 15px; font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;a&lt;/span&gt;&lt;sub style=&quot;font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;t&lt;/sub&gt;&lt;span style=&quot;font-size: 15px; font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="1860" y="2271" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
