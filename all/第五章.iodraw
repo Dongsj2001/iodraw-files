@@ -326,7 +326,7 @@
           <mxGeometry x="1360" y="1590" width="540" height="250" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-75" value="患者症状表达模块" style="swimlane;html=1;startSize=28;horizontal=0;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1360" y="1830" width="540" height="500" as="geometry" />
+          <mxGeometry x="1360" y="1831" width="540" height="500" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-76" style="endArrow=block;html=1;strokeWidth=2" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-61" target="fVpT6Kow-ts5sUFJ23zf-62">
           <mxGeometry relative="1" as="geometry" />
