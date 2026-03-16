@@ -298,7 +298,7 @@
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-65" value="医生侧：症状规划模块&lt;br&gt;依据诊断状态选择当前需要确认的目标症状 s&lt;sub&gt;t&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1430" y="1610" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-66" value="医生代理生成问诊问题&#xa;q_t = LLM(Z_t, s_t)&#xa;示例：最近是否出现胸部疼痛或压迫感？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-66" value="医生代理生成问诊问题&lt;br&gt;q&lt;sub&gt;t&lt;/sub&gt; = LLM(Z&lt;sub&gt;t&lt;/sub&gt;, s&lt;sub&gt;t&lt;/sub&gt;)&lt;br&gt;示例：最近是否出现胸部疼痛或压迫感？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1430" y="1720" width="400" height="95" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-67" value="患者侧：知识约束症状表达准备&#xa;根据候选疾病集合 D_cand 与医学知识图谱 G=(E,R,T)&#xa;检索疾病相关症状集合 S_(d_i)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15" vertex="1" parent="1">
