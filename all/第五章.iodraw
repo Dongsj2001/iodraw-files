@@ -262,7 +262,7 @@
         <mxCell id="qahbM7_OdsDR1PZ5M3pY-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/021/059/827/original/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg;clipPath=inset(10.67% 11.67% 10.67% 11.33% round 50%);fontFamily=Helvetica;" vertex="1" parent="qahbM7_OdsDR1PZ5M3pY-3">
           <mxGeometry x="24.92999999999995" y="34" width="20.97" height="21.42" as="geometry" />
         </mxCell>
-        <mxCell id="qahbM7_OdsDR1PZ5M3pY-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="qahbM7_OdsDR1PZ5M3pY-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;curved=0;shape=flexArrow;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-130" y="630" as="sourcePoint" />
             <mxPoint x="-130" y="670" as="targetPoint" />
