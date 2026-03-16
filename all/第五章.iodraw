@@ -313,7 +313,7 @@
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-70" value="患者代理生成自然语言回答&lt;br&gt;a&lt;sub&gt;t&lt;/sub&gt; = LLM(q&lt;sub&gt;t&lt;/sub&gt;, y&lt;sub&gt;t&lt;/sub&gt;, H&lt;sub&gt;t&lt;/sub&gt;)&lt;br&gt;在自然表达下保持与医学知识约束一致" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1430" y="2215" width="400" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-71" value="更新对话历史与诊断状态&lt;br&gt;H&lt;sub&gt;t+1&lt;/sub&gt;=H_t∪(q_t,a_t)&lt;br&gt;系统根据新增回答继续修正诊断判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-71" value="更新对话历史与诊断状态&lt;br&gt;H&lt;sub&gt;t+1&lt;/sub&gt;=H&lt;sub&gt;t&lt;/sub&gt;∪(q_t,a&lt;sub&gt;t&lt;/sub&gt;&amp;nbsp;)&lt;br&gt;系统根据新增回答继续修正诊断判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1430" y="2335" width="400" height="85" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-72" value="是否继续下一轮问诊？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16" vertex="1" parent="1">
