@@ -176,7 +176,7 @@
           <mxGeometry x="-7" y="9" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qahbM7_OdsDR1PZ5M3pY-7" value="" style="group;fillColor=#bac8d3;strokeColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40.000000000000114" y="340" width="128.88" height="60.65999999999997" as="geometry" />
+          <mxGeometry x="-245.5599999999999" y="350" width="128.88" height="60.65999999999997" as="geometry" />
         </mxCell>
         <mxCell id="qahbM7_OdsDR1PZ5M3pY-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#858f72;strokeWidth=3;fontFamily=Helvetica;" vertex="1" parent="qahbM7_OdsDR1PZ5M3pY-7">
           <mxGeometry width="128.88" height="60" as="geometry" />
@@ -300,6 +300,9 @@
             <mxPoint x="-120" y="490" as="sourcePoint" />
             <mxPoint x="-70" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qahbM7_OdsDR1PZ5M3pY-30" value="左冠状动脉前降支闭塞" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="420" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
