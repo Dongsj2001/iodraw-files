@@ -280,6 +280,83 @@
             <mxPoint x="506" y="42.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-4" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="420" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-5" value="输入基础信息&#xa;医学影像特征 v&#xa;候选疾病集合 D_cand&#xa;问诊症状集合 S_ask" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-6" value="构建当前轮对话历史&#xa;H_t={(q_1,a_1),(q_2,a_2),...,(q_{t-1},a_{t-1})}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="780" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-7" value="多模态信息融合&#xa;结合医学影像信息、对话历史 H_t 和当前疾病概率 P(D)&#xa;构建诊断状态 Z_t = f(v, H_t, P(D))" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="910" width="480" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-8" value="症状规划模块&#xa;根据当前诊断状态选择本轮需要确认的目标症状 s_t" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1060" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-9" value="医生代理生成问诊问题&#xa;将 (Z_t, s_t) 输入大语言模型&#xa;q_t = LLM(Z_t, s_t)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1190" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-10" value="示例问题&#xa;若目标症状为“胸痛”&#xa;可生成：&quot;最近是否出现胸痛或连带症状？&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1200" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-11" value="患者回答当前问题&#xa;得到回答 a_t" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1330" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-12" value="更新对话历史与诊断判断&#xa;H_{t+1}=H_t∪(q_t,a_t)&#xa;累计更多症状信息并更新疾病概率/诊断状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1450" width="480" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-13" value="是否还需继续问诊？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1580" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-14" value="结束&#xa;形成动态诊断交互过程&#xa;输出综合诊断结果/后续建议" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1730" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-15" value="阶段一已完成：&#xa;基于医学影像推断候选疾病&#xa;并得到问诊相关症状集合 S_ask" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffffff;strokeColor=#666666;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="710" y="640" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-4" target="fVpT6Kow-ts5sUFJ23zf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-5" target="fVpT6Kow-ts5sUFJ23zf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-6" target="fVpT6Kow-ts5sUFJ23zf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-7" target="fVpT6Kow-ts5sUFJ23zf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-8" target="fVpT6Kow-ts5sUFJ23zf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-9" target="fVpT6Kow-ts5sUFJ23zf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-11" target="fVpT6Kow-ts5sUFJ23zf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-12" target="fVpT6Kow-ts5sUFJ23zf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-24" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-13" target="fVpT6Kow-ts5sUFJ23zf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-25" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-13" target="fVpT6Kow-ts5sUFJ23zf-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="1635" />
+              <mxPoint x="150" y="825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;strokeWidth=1.5;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-9" target="fVpT6Kow-ts5sUFJ23zf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;strokeWidth=1.5;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-5" target="fVpT6Kow-ts5sUFJ23zf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
