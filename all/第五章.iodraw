@@ -289,7 +289,7 @@
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-62" value="输入初始信息&lt;br&gt;医学影像特征 v&lt;br&gt;候选疾病集合 D&lt;sub&gt;cand&lt;/sub&gt;&lt;br&gt;初始症状集合 S&lt;sub&gt;ask&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1470" y="1250" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-63" value="构建当前轮之前的对话历史&#xa;H_t = {(q_1,a_1),(q_2,a_2),...,(q_(t-1),a_(t-1))}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-63" value="构建当前轮之前的对话历史&lt;br&gt;H&lt;sub&gt;t&lt;/sub&gt; = {(q&lt;sub&gt;1&lt;/sub&gt;,a&lt;sub&gt;1&lt;/sub&gt;),(q&lt;sub&gt;2&lt;/sub&gt;,a&lt;sub&gt;2&lt;/sub&gt;),...,(q&lt;sub&gt;(t-1)&lt;/sub&gt;,a&lt;sub&gt;(t-1)&lt;/sub&gt;)}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1430" y="1380" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-64" value="多模态诊断状态融合&#xa;综合影像信息、历史对话与疾病概率分布&#xa;Z_t = f(v, H_t, P(D))" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15" vertex="1" parent="1">
