@@ -127,8 +127,8 @@
         <mxCell id="YZX2d3Mg6V1dGDqKPEG2-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YZX2d3Mg6V1dGDqKPEG2-25" value="问诊清单" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="280" width="80" height="40" as="geometry" />
+        <mxCell id="YZX2d3Mg6V1dGDqKPEG2-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;问诊清单&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="320" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
