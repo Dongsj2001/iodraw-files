@@ -142,6 +142,11 @@
         <mxCell id="3J0fBZtLQsxqK7z6dELr-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/021/059/827/original/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg;clipPath=inset(10.67% 11.67% 10.67% 11.33% round 50%);fontFamily=Helvetica;" vertex="1" parent="3J0fBZtLQsxqK7z6dELr-1">
           <mxGeometry x="24.92999999999995" y="34" width="20.97" height="21.42" as="geometry" />
         </mxCell>
+        <UserObject label="https://pic.mksucai.com/00/45/33/938998a2655717dd.webp" link="https://pic.mksucai.com/00/45/33/938998a2655717dd.webp" id="3J0fBZtLQsxqK7z6dELr-5">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="-230" y="540" width="350" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
