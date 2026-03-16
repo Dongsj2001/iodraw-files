@@ -149,13 +149,13 @@
           <mxGeometry x="-490.32" y="256" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-9" value="&lt;b&gt;胸痛&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="380" width="50" height="20" as="geometry" />
+          <mxGeometry x="-463" y="410" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-10" value="&lt;b&gt;呼吸困难&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="390" width="50" height="20" as="geometry" />
+          <mxGeometry x="-463" y="445" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-11" value="&lt;b&gt;胸闷&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="445" width="50" height="20" as="geometry" />
+          <mxGeometry x="-463" y="490" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
