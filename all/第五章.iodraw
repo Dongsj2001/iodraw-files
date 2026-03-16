@@ -302,19 +302,19 @@
           <mxGeometry x="1430" y="1720" width="400" height="95" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-67" value="患者侧：知识约束症状表达准备&lt;br&gt;根据候选疾病集合 D&lt;sub&gt;cand&lt;/sub&gt;&amp;nbsp;与医学知识图谱 G=(E,R,T)&lt;br&gt;检索疾病相关症状集合 S&lt;span style=&quot;font-size: 12.5px;&quot;&gt;d&lt;/span&gt;&lt;sub&gt;i&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15" vertex="1" parent="1">
-          <mxGeometry x="1430" y="1850" width="400" height="95" as="geometry" />
+          <mxGeometry x="1430" y="1876" width="400" height="95" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-68" value="估计目标症状出现概率&lt;br&gt;结合当前问诊目标症状s&lt;sub&gt;t&lt;/sub&gt;与疾病概率分布 P(&lt;span style=&quot;font-size: 12.5px;&quot;&gt;d&lt;sub&gt;i&lt;/sub&gt;&lt;/span&gt;|I,H&lt;sub&gt;t&lt;/sub&gt;)&lt;br&gt;得到 P(s&lt;sub&gt;t&lt;/sub&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15" vertex="1" parent="1">
-          <mxGeometry x="1430" y="1975" width="400" height="85" as="geometry" />
+          <mxGeometry x="1430" y="2001" width="400" height="85" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-69" value="对症状状态进行采样&lt;br&gt;得到症状状态变量 y&lt;sub&gt;t&lt;/sub&gt;&lt;br&gt;1：症状存在&lt;br&gt;0：症状不存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15" vertex="1" parent="1">
-          <mxGeometry x="1430" y="2090" width="400" height="95" as="geometry" />
+          <mxGeometry x="1430" y="2116" width="400" height="95" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-70" value="患者代理生成自然语言回答&lt;br&gt;a&lt;sub&gt;t&lt;/sub&gt; = LLM(q&lt;sub&gt;t&lt;/sub&gt;, y&lt;sub&gt;t&lt;/sub&gt;, H&lt;sub&gt;t&lt;/sub&gt;)&lt;br&gt;在自然表达下保持与医学知识约束一致" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15" vertex="1" parent="1">
-          <mxGeometry x="1430" y="2215" width="400" height="90" as="geometry" />
+          <mxGeometry x="1430" y="2241" width="400" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-71" value="更新对话历史与诊断状态&lt;br&gt;H&lt;sub&gt;t+1&lt;/sub&gt;=H&lt;sub&gt;t&lt;/sub&gt;∪(q&lt;sub&gt;t&lt;/sub&gt;,a&lt;sub&gt;t&lt;/sub&gt;&amp;nbsp;)&lt;br&gt;系统根据新增回答继续修正诊断判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15" vertex="1" parent="1">
-          <mxGeometry x="1430" y="2335" width="400" height="85" as="geometry" />
+          <mxGeometry x="1430" y="2361" width="400" height="85" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-72" value="是否继续下一轮问诊？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16" vertex="1" parent="1">
           <mxGeometry x="1520" y="2571" width="220" height="100" as="geometry" />
@@ -326,7 +326,7 @@
           <mxGeometry x="1360" y="1590" width="540" height="250" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-75" value="患者症状表达模块" style="swimlane;html=1;startSize=28;horizontal=0;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1360" y="1846" width="540" height="500" as="geometry" />
+          <mxGeometry x="1360" y="1872" width="540" height="500" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-76" style="endArrow=block;html=1;strokeWidth=2" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-61" target="fVpT6Kow-ts5sUFJ23zf-62">
           <mxGeometry relative="1" as="geometry" />
@@ -382,7 +382,7 @@
           <mxGeometry x="1850" y="1724" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-90" value="输出：患者回答&amp;nbsp;&lt;span style=&quot;font-size: 15px; font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;a&lt;/span&gt;&lt;sub style=&quot;font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;t&lt;/sub&gt;&lt;span style=&quot;font-size: 15px; font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="1860" y="2245" width="180" height="30" as="geometry" />
+          <mxGeometry x="1860" y="2271" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
