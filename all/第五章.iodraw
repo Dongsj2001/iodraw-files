@@ -193,12 +193,6 @@
         <mxCell id="3J0fBZtLQsxqK7z6dELr-39" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial; text-wrap: nowrap;&quot;&gt;胸口疼超过 40 分钟了，越来越明显，&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; text-wrap: nowrap;&quot;&gt;&lt;b&gt;胸闷全天都有，尤其是晚上平躺时&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; text-wrap: nowrap;&quot;&gt;&lt;b&gt;更严重，还伴有轻微的呼吸困难&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;，&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; text-wrap: nowrap;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;得大口喘气才舒服。&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-580.3200000000002" y="657.58" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3J0fBZtLQsxqK7z6dELr-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-520" y="287.58" as="sourcePoint" />
-            <mxPoint x="-470" y="237.57999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
