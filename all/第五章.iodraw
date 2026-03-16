@@ -261,6 +261,9 @@
         <mxCell id="3J0fBZtLQsxqK7z6dELr-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://simg.baai.ac.cn/uploads/2023/08/4f8c96df1e43cc2f3f6b1f3456cb428f.png;clipPath=inset(24.43% 26.67% 10.31% 25.33%);fontFamily=Helvetica;container=0;" parent="1" vertex="1">
           <mxGeometry x="-556.11" y="234.58000000000004" width="44.55" height="52.9" as="geometry" />
         </mxCell>
+        <mxCell id="qahbM7_OdsDR1PZ5M3pY-12" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:黑体;mso-bidi-font-family:&#39;Times New Roman&#39;;&#xa;mso-ansi-font-weight:normal;mso-bidi-font-weight:bold;font-size:12.0000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;医患多轮问诊对话&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="140" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
