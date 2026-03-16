@@ -310,7 +310,7 @@
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-69" value="对症状状态进行采样&lt;br&gt;得到症状状态变量 y&lt;sub&gt;t&lt;/sub&gt;&lt;br&gt;1：症状存在&lt;br&gt;0：症状不存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1430" y="2090" width="400" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-70" value="患者代理生成自然语言回答&#xa;a_t = LLM(q_t, y_t, H_t)&#xa;在自然表达下保持与医学知识约束一致" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-70" value="患者代理生成自然语言回答&lt;br&gt;a&lt;sub&gt;t&lt;/sub&gt; = LLM(q&lt;sub&gt;t&lt;/sub&gt;, y&lt;sub&gt;t&lt;/sub&gt;, H&lt;sub&gt;t&lt;/sub&gt;)&lt;br&gt;在自然表达下保持与医学知识约束一致" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1430" y="2215" width="400" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-71" value="更新对话历史与诊断状态&#xa;H_(t+1)=H_t∪(q_t,a_t)&#xa;系统根据新增回答继续修正诊断判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15" vertex="1" parent="1">
