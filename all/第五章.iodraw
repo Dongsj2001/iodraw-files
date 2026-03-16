@@ -139,9 +139,6 @@
         <mxCell id="3J0fBZtLQsxqK7z6dELr-30" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;结构化图谱知识&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="300" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3J0fBZtLQsxqK7z6dELr-31" value="左冠状动脉前降支闭塞" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-265" y="370" width="150" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-32" value="RAO 16°/ CAU 25°" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-180" y="740" width="130" height="40" as="geometry" />
         </mxCell>
