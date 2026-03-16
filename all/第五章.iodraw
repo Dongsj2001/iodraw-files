@@ -175,7 +175,7 @@
         <mxCell id="D3FJbjQeT2hzZYK56Hch-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" parent="3J0fBZtLQsxqK7z6dELr-62" vertex="1">
           <mxGeometry x="-7" y="9" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qahbM7_OdsDR1PZ5M3pY-7" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="qahbM7_OdsDR1PZ5M3pY-7" value="" style="group;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-245.5599999999999" y="350" width="128.88" height="60.65999999999997" as="geometry" />
         </mxCell>
         <mxCell id="qahbM7_OdsDR1PZ5M3pY-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#858f72;strokeWidth=3;fontFamily=Helvetica;" vertex="1" parent="qahbM7_OdsDR1PZ5M3pY-7">
