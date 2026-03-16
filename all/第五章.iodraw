@@ -304,7 +304,7 @@
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-67" value="患者侧：知识约束症状表达准备&lt;br&gt;根据候选疾病集合 D&lt;sub&gt;cand&lt;/sub&gt;&amp;nbsp;与医学知识图谱 G=(E,R,T)&lt;br&gt;检索疾病相关症状集合 S&lt;sub&gt;d&lt;font style=&quot;font-size: 6px;&quot;&gt;i&lt;/font&gt;&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1430" y="1850" width="400" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-68" value="估计目标症状出现概率&lt;br&gt;结合当前问诊目标症状s&lt;sub&gt;t&lt;/sub&gt;与疾病概率分布 P(d_i|I,H_t)&lt;br&gt;得到 P(s&lt;sub&gt;t&lt;/sub&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-68" value="估计目标症状出现概率&lt;br&gt;结合当前问诊目标症状s&lt;sub&gt;t&lt;/sub&gt;与疾病概率分布 P(&lt;span style=&quot;font-size: 12.5px;&quot;&gt;d&lt;/span&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;i&lt;/font&gt;|I,H_t)&lt;br&gt;得到 P(s&lt;sub&gt;t&lt;/sub&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1430" y="1975" width="400" height="85" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-69" value="对症状状态进行采样&#xa;得到症状状态变量 y_t&#xa;1：症状存在&#xa;0：症状不存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15" vertex="1" parent="1">
