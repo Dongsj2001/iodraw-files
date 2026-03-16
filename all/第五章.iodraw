@@ -131,13 +131,13 @@
           <mxGeometry x="132.32000000000005" y="90" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-28" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;医学影像信息&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="177.57999999999998" width="120" height="20" as="geometry" />
+          <mxGeometry x="-250" y="225" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-29" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;患者症状反馈&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="217.57999999999998" width="120" height="20" as="geometry" />
+          <mxGeometry x="-250" y="265" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-30" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;结构化图谱知识&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="252.57999999999998" width="120" height="20" as="geometry" />
+          <mxGeometry x="-250" y="300" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-31" value="左冠状动脉前降支闭塞" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-180" y="540" width="150" height="40" as="geometry" />
