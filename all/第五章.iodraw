@@ -10,6 +10,14 @@
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-63" value="构建当前轮之前的对话历史&lt;br&gt;H&lt;sub&gt;t&lt;/sub&gt; = {(q&lt;sub&gt;1&lt;/sub&gt;,a&lt;sub&gt;1&lt;/sub&gt;),(q&lt;sub&gt;2&lt;/sub&gt;,a&lt;sub&gt;2&lt;/sub&gt;),...,(q&lt;sub&gt;(t-1)&lt;/sub&gt;,a&lt;sub&gt;(t-1)&lt;/sub&gt;)}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15" parent="1" vertex="1">
           <mxGeometry x="1430" y="1380" width="400" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="A1shutlAxaK2qe2NmQzD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-64" target="fVpT6Kow-ts5sUFJ23zf-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="1535" />
+              <mxPoint x="1290" y="1953" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-64" value="多模态诊断状态融合&lt;br&gt;综合影像信息、历史对话与疾病概率分布&lt;br&gt;Z&lt;sub&gt;t&lt;/sub&gt; = f(v, H&lt;sub&gt;t&lt;/sub&gt;, P(D))" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15" parent="1" vertex="1">
           <mxGeometry x="1430" y="1490" width="400" height="90" as="geometry" />
         </mxCell>
@@ -73,16 +81,6 @@
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-86" style="endArrow=block;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fVpT6Kow-ts5sUFJ23zf-71" target="fVpT6Kow-ts5sUFJ23zf-72" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1630" y="2490" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-87" value="是" style="endArrow=block;html=1;strokeWidth=2;rounded=1;exitX=0;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;" parent="1" source="fVpT6Kow-ts5sUFJ23zf-72" target="fVpT6Kow-ts5sUFJ23zf-64" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1430" y="1960" />
-              <mxPoint x="1340" y="2620" />
-              <mxPoint x="1340" y="2500" />
-              <mxPoint x="1340" y="1535" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-89" value="输出：医生问诊问题 q&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" parent="1" vertex="1">
