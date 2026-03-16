@@ -10,8 +10,8 @@
         <mxCell id="TNrAju8poyHXC2g6lTCe-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="-70" width="556" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="TNrAju8poyHXC2g6lTCe-6" value="面对心内疾病辅助诊疗的垂域大模型与知识图谱模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="150" width="300" height="30" as="geometry" />
+        <mxCell id="TNrAju8poyHXC2g6lTCe-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;面对心内疾病辅助诊疗的垂域大模型与知识图谱模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-60" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
