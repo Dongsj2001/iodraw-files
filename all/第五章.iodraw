@@ -84,15 +84,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-89" value="输出：医生问诊问题 q&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="1730" y="1840" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="A1shutlAxaK2qe2NmQzD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fVpT6Kow-ts5sUFJ23zf-90">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2540" y="1830" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="1750" y="1840" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-90" value="输出：患者回答&amp;nbsp;&lt;span style=&quot;font-size: 15px; font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;a&lt;/span&gt;&lt;sub style=&quot;font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;t&lt;/sub&gt;&lt;span style=&quot;font-size: 15px; font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="2520" y="1728" width="180" height="30" as="geometry" />
+          <mxGeometry x="2450" y="1815" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
