@@ -275,13 +275,13 @@
           <mxGeometry x="-545" y="435" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-9" value="&lt;b&gt;症状 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="410" width="50" height="20" as="geometry" />
+          <mxGeometry x="-420" y="410.66" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-10" value="&lt;b&gt;症状 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="445" width="50" height="20" as="geometry" />
+          <mxGeometry x="-420" y="445" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-11" value="&lt;b&gt;症状 3&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="480" width="50" height="20" as="geometry" />
+          <mxGeometry x="-420" y="480" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
