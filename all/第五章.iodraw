@@ -148,8 +148,11 @@
         <mxCell id="3J0fBZtLQsxqK7z6dELr-8" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial; text-wrap: nowrap;&quot;&gt;胸口疼超过 40 分钟了，越来越明显，&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; text-wrap: nowrap;&quot;&gt;&lt;b&gt;胸闷全天都有，尤其是晚上平躺时&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; text-wrap: nowrap;&quot;&gt;&lt;b&gt;更严重，还伴有轻微的呼吸困难&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;，&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; text-wrap: nowrap;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;得大口喘气才舒服。&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-490.32" y="256" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3J0fBZtLQsxqK7z6dELr-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="3J0fBZtLQsxqK7z6dELr-9" value="&lt;b&gt;胸痛&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="380" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3J0fBZtLQsxqK7z6dELr-10" value="&lt;b&gt;胸痛&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="390" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
