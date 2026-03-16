@@ -375,7 +375,7 @@
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-89" value="输出：医生问诊问题 q&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="1850" y="1724" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-90" value="输出：患者回答 a_t" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-90" value="输出：患者回答&amp;nbsp;&lt;span style=&quot;font-size: 15px; font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;a&lt;/span&gt;&lt;sub style=&quot;font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;t&lt;/sub&gt;&lt;span style=&quot;font-size: 15px; font-style: normal; text-align: center; text-wrap: wrap;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="1860" y="2245" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
