@@ -301,8 +301,11 @@
             <mxPoint x="-70" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qahbM7_OdsDR1PZ5M3pY-30" value="左冠状动脉前降支闭塞" style="text;whiteSpace=wrap;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="qahbM7_OdsDR1PZ5M3pY-30" value="左冠状动脉前降支闭塞" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-246.68" y="412.58000000000004" width="130" height="32.42" as="geometry" />
+        </mxCell>
+        <mxCell id="qahbM7_OdsDR1PZ5M3pY-33" value="+" style="text;whiteSpace=wrap;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-246.68" y="457.58000000000004" width="130" height="32.42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
