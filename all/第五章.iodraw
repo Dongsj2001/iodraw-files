@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="83bPFK1Uej9rrXV-eIOJ">
-    <mxGraphModel dx="1720" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2129" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -307,7 +307,7 @@
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-68" value="估计目标症状出现概率&lt;br&gt;结合当前问诊目标症状s&lt;sub&gt;t&lt;/sub&gt;与疾病概率分布 P(&lt;span style=&quot;font-size: 12.5px;&quot;&gt;d&lt;sub&gt;i&lt;/sub&gt;&lt;/span&gt;|I,H&lt;sub&gt;t&lt;/sub&gt;)&lt;br&gt;得到 P(s&lt;sub&gt;t&lt;/sub&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1430" y="1975" width="400" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-69" value="对症状状态进行采样&#xa;得到症状状态变量 y_t&#xa;1：症状存在&#xa;0：症状不存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15" vertex="1" parent="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-69" value="对症状状态进行采样&lt;br&gt;得到症状状态变量 y&lt;sub&gt;t&lt;/sub&gt;&lt;br&gt;1：症状存在&lt;br&gt;0：症状不存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15" vertex="1" parent="1">
           <mxGeometry x="1430" y="2090" width="400" height="95" as="geometry" />
         </mxCell>
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-70" value="患者代理生成自然语言回答&#xa;a_t = LLM(q_t, y_t, H_t)&#xa;在自然表达下保持与医学知识约束一致" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15" vertex="1" parent="1">
