@@ -136,7 +136,7 @@
         <mxCell id="3J0fBZtLQsxqK7z6dELr-29" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;患者症状反馈&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="265" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3J0fBZtLQsxqK7z6dELr-30" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;结构化图谱知识&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3J0fBZtLQsxqK7z6dELr-30" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;结构化图谱知识&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="300" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-32" value="RAO 16°/ CAU 25°" style="text;whiteSpace=wrap;" parent="1" vertex="1">
@@ -261,6 +261,12 @@
         </mxCell>
         <mxCell id="qahbM7_OdsDR1PZ5M3pY-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/021/059/827/original/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg;clipPath=inset(10.67% 11.67% 10.67% 11.33% round 50%);fontFamily=Helvetica;" vertex="1" parent="qahbM7_OdsDR1PZ5M3pY-3">
           <mxGeometry x="24.92999999999995" y="34" width="20.97" height="21.42" as="geometry" />
+        </mxCell>
+        <mxCell id="qahbM7_OdsDR1PZ5M3pY-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="490" as="sourcePoint" />
+            <mxPoint x="-70" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
