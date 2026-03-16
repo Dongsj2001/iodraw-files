@@ -143,13 +143,18 @@
           <mxGeometry x="132.32000000000005" y="90" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-1" value="" style="group;fontFamily=Helvetica;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-595.32" y="241.58" width="49.360000000000014" height="58.41999999999996" as="geometry" />
+          <mxGeometry x="-580.32" y="241.58" width="49.360000000000014" height="58.41999999999996" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-2" value="" style="group;fontFamily=Helvetica;" vertex="1" connectable="0" parent="3J0fBZtLQsxqK7z6dELr-1">
           <mxGeometry width="49.360000000000014" height="58.41999999999996" as="geometry" />
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://simg.baai.ac.cn/uploads/2023/08/4f8c96df1e43cc2f3f6b1f3456cb428f.png;clipPath=inset(24.43% 26.67% 10.31% 25.33%);fontFamily=Helvetica;" vertex="1" parent="3J0fBZtLQsxqK7z6dELr-2">
           <mxGeometry y="-2" width="44.55" height="52.9" as="geometry" />
+        </mxCell>
+        <mxCell id="3J0fBZtLQsxqK7z6dELr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="3J0fBZtLQsxqK7z6dELr-1" source="3J0fBZtLQsxqK7z6dELr-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175.32000000000005" y="39.41999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3J0fBZtLQsxqK7z6dELr-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/021/059/827/original/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg;clipPath=inset(10.67% 11.67% 10.67% 11.33% round 50%);fontFamily=Helvetica;" vertex="1" parent="3J0fBZtLQsxqK7z6dELr-1">
           <mxGeometry x="24.92999999999995" y="34" width="20.97" height="21.42" as="geometry" />
