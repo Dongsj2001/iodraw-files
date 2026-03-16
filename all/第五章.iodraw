@@ -78,7 +78,6 @@
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-87" value="是" style="endArrow=block;html=1;strokeWidth=2;rounded=1;exitX=0;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;" parent="1" source="fVpT6Kow-ts5sUFJ23zf-72" target="fVpT6Kow-ts5sUFJ23zf-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1430" y="2620" />
               <mxPoint x="1430" y="1960" />
               <mxPoint x="1340" y="2620" />
               <mxPoint x="1340" y="2500" />
