@@ -228,13 +228,13 @@
         <mxCell id="KrLABfEHQg82GTWOrrgV-60" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;跨模态联合推理与路径控制&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="550" y="594.5" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-74" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;" parent="1" edge="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-74" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="KrLABfEHQg82GTWOrrgV-59" target="KrLABfEHQg82GTWOrrgV-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="539.497142857143" as="sourcePoint" />
             <mxPoint x="440" y="551.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-76" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="KrLABfEHQg82GTWOrrgV-59" target="KrLABfEHQg82GTWOrrgV-58" edge="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-76" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="KrLABfEHQg82GTWOrrgV-59" target="KrLABfEHQg82GTWOrrgV-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="566" as="sourcePoint" />
             <mxPoint x="430" y="409.5" as="targetPoint" />
