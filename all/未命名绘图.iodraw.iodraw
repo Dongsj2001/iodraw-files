@@ -225,8 +225,8 @@
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-3" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="475" y="650" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-53" value="&#xa;多模态辅助诊断子系统&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="850" width="480" height="200" as="geometry" />
+        <mxCell id="KrLABfEHQg82GTWOrrgV-53" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="850" width="480" height="250" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-106" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KrLABfEHQg82GTWOrrgV-55" target="KrLABfEHQg82GTWOrrgV-57" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
