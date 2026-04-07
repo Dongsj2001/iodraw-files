@@ -25,7 +25,7 @@
         <mxCell id="3U859we8SQ0avKnCpyCn-2" value="您好，我是您的心脏病科医生。请问我能为您提供什么帮助?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="120" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3U859we8SQ0avKnCpyCn-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="3U859we8SQ0avKnCpyCn-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00b0f0;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="340" y="382.5" width="110" height="27" as="geometry" />
         </mxCell>
       </root>
