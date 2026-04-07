@@ -37,8 +37,11 @@
         <mxCell id="3U859we8SQ0avKnCpyCn-7" value="首先，需要考虑心源性胸痛，尤其是稳定型心绞痛--这种情况更可能是运动导致心肌耗氧量增加、供血不足所引发的。同时，也需警惕急性冠脉综合征的早期表现，尽管这类情况通常会伴随更严重的症状。&#xa;建议您尽快完成以下检查:首先，进行心电图筛查以排查心肌缺血;随后安排运动负荷心电图，评估运动诱发的心肌缺血情况;必要时可做心脏超声，评估心脏结构异常与功能状态。若胸痛表现出急性特征，应尽快检测心肌标志物以排除心肌梗死;同时，结合胸部X光或CT检查，排除呼吸急症。&#xa;在明确诊断前，请避免剧烈运动与情绪激动，保持安静休息。可在医生指导下短期口服硝酸甘油类药物缓解胸痛。若出现持续性胸痛、出冷汗、心悸、呼吸困难或意识障碍，请立即就医或拨打急救电话。若您有高血压、高胆固醇、糖尿病、吸烟史或早发心血管疾病家族史，还需进一步系统评估心血管风险，并考虑启动一级预防与治疗策略。" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="850" y="160" width="560" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="3U859we8SQ0avKnCpyCn-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3U859we8SQ0avKnCpyCn-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00b0f0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3U859we8SQ0avKnCpyCn-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00b0f0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
