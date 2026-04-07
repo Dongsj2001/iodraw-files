@@ -255,7 +255,7 @@
         <mxCell id="KrLABfEHQg82GTWOrrgV-65" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;多模态知识融合诊断与解释机制&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="505" y="780.5" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="sZHc2EkhoBWIrsgk2Wys-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="KrLABfEHQg82GTWOrrgV-44" target="sZHc2EkhoBWIrsgk2Wys-6">
+        <mxCell id="sZHc2EkhoBWIrsgk2Wys-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="KrLABfEHQg82GTWOrrgV-44" target="sZHc2EkhoBWIrsgk2Wys-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="515" />
@@ -263,7 +263,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sZHc2EkhoBWIrsgk2Wys-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="KrLABfEHQg82GTWOrrgV-49" target="sZHc2EkhoBWIrsgk2Wys-8">
+        <mxCell id="sZHc2EkhoBWIrsgk2Wys-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="KrLABfEHQg82GTWOrrgV-49" target="sZHc2EkhoBWIrsgk2Wys-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="710" y="702" />
