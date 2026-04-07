@@ -249,10 +249,7 @@
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;疾病智能问答子系统&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="980" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sZHc2EkhoBWIrsgk2Wys-7" value="多模态辅助诊断子系统" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="800" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sZHc2EkhoBWIrsgk2Wys-8" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;疾病智能问答子系统&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="sZHc2EkhoBWIrsgk2Wys-8" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;疾病智能问答子系统&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;多模态辅助诊断子系统&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="500" y="980" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
