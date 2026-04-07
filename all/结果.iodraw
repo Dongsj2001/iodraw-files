@@ -28,8 +28,8 @@
         <mxCell id="3U859we8SQ0avKnCpyCn-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;您好，我是您的心内科医生。请问我能为您提供什么帮助?&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FAFAFA;" vertex="1" parent="1">
           <mxGeometry x="189" y="381" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3U859we8SQ0avKnCpyCn-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="382.5" width="120" height="60" as="geometry" />
+        <mxCell id="3U859we8SQ0avKnCpyCn-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#746f6f;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="410" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
