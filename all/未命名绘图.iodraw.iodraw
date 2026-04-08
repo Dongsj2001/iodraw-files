@@ -84,10 +84,10 @@
           <mxGeometry x="550" y="594.5" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-59" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;知识子图构建与图表示编码&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="412.5" y="548" width="130" height="35" as="geometry" />
+          <mxGeometry x="441.5" y="548" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-60" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;跨模态联合推理与路径控制&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="550" width="130" height="35" as="geometry" />
+          <mxGeometry x="600" y="546" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-3" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="475" y="650" width="15" height="15" as="geometry" />
