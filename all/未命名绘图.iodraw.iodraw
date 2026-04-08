@@ -81,13 +81,13 @@
           <mxGeometry x="275" y="560" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-58" value="&lt;span style=&quot;font-size: 14px;&quot; class=&quot;10&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;答案生成与&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot; class=&quot;10&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;解释模块&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="548" width="110" height="35" as="geometry" />
+          <mxGeometry x="660" y="560" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-59" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;知识子图构建&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;与图表示编码&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="560" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-60" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;跨模态联合推&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;理与路径控制&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="548" width="110" height="35" as="geometry" />
+          <mxGeometry x="530" y="560" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-3" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="475" y="650" width="15" height="15" as="geometry" />
@@ -260,6 +260,12 @@
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="480" y="271" as="sourcePoint" />
             <mxPoint x="480" y="461" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvoPqZCQ4XD1AKpeu5uC-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="580" as="sourcePoint" />
+            <mxPoint x="800" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
