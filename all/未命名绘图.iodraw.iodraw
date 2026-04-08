@@ -75,16 +75,16 @@
           <mxGeometry x="445" y="497.5" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-45" value="&lt;span style=&quot;&quot; class=&quot;10&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;输入处理与&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot; class=&quot;10&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;实体对齐&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="276" y="560" width="110" height="35" as="geometry" />
+          <mxGeometry x="280" y="560" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-58" value="&lt;span style=&quot;font-size: 14px;&quot; class=&quot;10&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;答案生成与&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot; class=&quot;10&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;解释模块&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="703" y="560" width="110" height="35" as="geometry" />
+          <mxGeometry x="707" y="560" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-59" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;知识子图构建&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;与图表示编码&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="560" width="110" height="35" as="geometry" />
+          <mxGeometry x="424" y="560" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-60" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;跨模态联合推&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;理与路径控制&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="564" y="560" width="110" height="35" as="geometry" />
+          <mxGeometry x="568" y="560" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-3" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="475" y="650" width="15" height="15" as="geometry" />
@@ -215,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-27" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="271" width="480" height="190" as="geometry" />
+          <mxGeometry x="240" y="271" width="620" height="190" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-69" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KrLABfEHQg82GTWOrrgV-34" target="KrLABfEHQg82GTWOrrgV-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
