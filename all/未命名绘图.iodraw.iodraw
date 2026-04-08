@@ -84,7 +84,7 @@
           <mxGeometry x="760" y="546" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-59" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;知识子图构建&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;与图表示编码&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="441.5" y="548" width="118.5" height="35" as="geometry" />
+          <mxGeometry x="405" y="548" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-60" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;跨模态联合推&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;理与路径控制&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="546" width="130" height="35" as="geometry" />
