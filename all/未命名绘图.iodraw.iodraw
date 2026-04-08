@@ -77,16 +77,16 @@
         <mxCell id="KrLABfEHQg82GTWOrrgV-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;第四章&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;知识图谱增强医疗语言推理方法&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="400" y="489.5" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-45" value="&lt;span style=&quot;&quot; class=&quot;10&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;输入处理与实体对齐&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-45" value="&lt;span style=&quot;&quot; class=&quot;10&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;输入处理与实体对齐&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="548" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-58" value="&lt;span style=&quot;font-size: 14px;&quot; class=&quot;10&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;答案生成与解释模块&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-58" value="&lt;span style=&quot;font-size: 14px;&quot; class=&quot;10&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;答案生成与解释模块&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="594.5" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-59" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;知识子图构建与图表示编码&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-59" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;知识子图构建与图表示编码&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="548" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-60" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;跨模态联合推理与路径控制&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-60" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;跨模态联合推理与路径控制&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="594.5" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-74" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="KrLABfEHQg82GTWOrrgV-59" target="KrLABfEHQg82GTWOrrgV-45" edge="1">
@@ -116,16 +116,16 @@
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="KrLABfEHQg82GTWOrrgV-55" target="KrLABfEHQg82GTWOrrgV-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-55" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;需求分析&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-55" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;需求分析&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="922" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="KrLABfEHQg82GTWOrrgV-56" target="KrLABfEHQg82GTWOrrgV-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-56" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;系统设计&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-56" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;系统设计&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="422.5" y="922" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-57" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;系统展示与测试&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-57" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;系统展示与测试&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="922" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;疾病智能问答子系统&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
@@ -152,22 +152,22 @@
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="KrLABfEHQg82GTWOrrgV-61" target="KrLABfEHQg82GTWOrrgV-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-61" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;医学影像驱动的候选疾病推断&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-61" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;医学影像驱动的候选疾病推断&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="737" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="KrLABfEHQg82GTWOrrgV-62" target="KrLABfEHQg82GTWOrrgV-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-62" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;知识图谱驱动的问诊症状规划&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-62" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;知识图谱驱动的问诊症状规划&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="429" y="737" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-63" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;医患多轮问诊对话生成机制&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-63" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;医患多轮问诊对话生成机制&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="575" y="737" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-64" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;知识约束的患者症状表达机制&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-64" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;知识约束的患者症状表达机制&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="784.5" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-65" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;多模态知识融合诊断与解释机制&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-65" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;多模态知识融合诊断与解释机制&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="784.5" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="KrLABfEHQg82GTWOrrgV-44" target="sZHc2EkhoBWIrsgk2Wys-6" edge="1">
@@ -250,13 +250,13 @@
             <mxPoint x="440" y="489" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;知识图谱&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;知识图谱&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="341" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;大语言模型&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;大语言模型&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="381" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;性能评价指标&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;性能评价指标&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="421" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;第二章 相关知识&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" parent="1" vertex="1">
@@ -265,13 +265,13 @@
         <mxCell id="KrLABfEHQg82GTWOrrgV-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;第三章 模型微调及图谱构建&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="520" y="279" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;基座模型微调&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;基座模型微调&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="381" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;构建垂域知识图谱&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;构建垂域知识图谱&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="421" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据预处理&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据预处理&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="341" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KrLABfEHQg82GTWOrrgV-37" value="" style="shape=link;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="1" edge="1">
