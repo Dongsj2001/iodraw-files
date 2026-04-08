@@ -134,7 +134,7 @@
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="KrLABfEHQg82GTWOrrgV-61" target="KrLABfEHQg82GTWOrrgV-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KrLABfEHQg82GTWOrrgV-61" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;医学影像驱动的候选疾病推断&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KrLABfEHQg82GTWOrrgV-61" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;医学影像驱动&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;的候选疾病推断&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="737" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="KrLABfEHQg82GTWOrrgV-62" target="KrLABfEHQg82GTWOrrgV-63" edge="1">
@@ -155,7 +155,7 @@
         <mxCell id="sZHc2EkhoBWIrsgk2Wys-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="KrLABfEHQg82GTWOrrgV-44" target="sZHc2EkhoBWIrsgk2Wys-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="515" />
+              <mxPoint x="260" y="523" />
               <mxPoint x="260" y="995" />
             </Array>
           </mxGeometry>
