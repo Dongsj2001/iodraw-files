@@ -86,7 +86,7 @@
         <mxCell id="fVpT6Kow-ts5sUFJ23zf-89" value="&lt;span style=&quot;font-style: normal;&quot;&gt;输出：医生问诊问题 q&lt;sub style=&quot;&quot;&gt;t&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="1750" y="1840" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fVpT6Kow-ts5sUFJ23zf-90" value="输出：患者回答&amp;nbsp;&lt;span style=&quot;font-size: 15px; text-align: center; text-wrap: wrap;&quot;&gt;a&lt;/span&gt;&lt;sub style=&quot;text-align: center; text-wrap: wrap;&quot;&gt;t&lt;/sub&gt;&lt;span style=&quot;font-size: 15px; text-align: center; text-wrap: wrap;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="fVpT6Kow-ts5sUFJ23zf-90" value="&lt;span style=&quot;font-style: normal;&quot;&gt;输出：患者回答&amp;nbsp;&lt;span style=&quot;font-size: 15px; text-align: center; text-wrap: wrap;&quot;&gt;a&lt;/span&gt;&lt;sub style=&quot;text-align: center; text-wrap: wrap;&quot;&gt;t&lt;/sub&gt;&lt;span style=&quot;font-size: 15px; text-align: center; text-wrap: wrap;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="2450" y="1815" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
